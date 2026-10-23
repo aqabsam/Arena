@@ -1,0 +1,2832 @@
+{
+  "categories": [
+    {
+      "id": "random",
+      "name": "Random / Mixed",
+      "items": [],
+      "isRandomMix": true
+    },
+    {
+      "id": "marvel",
+      "name": "Marvel",
+      "items": [
+        {
+          "id": "marvel_iron_man",
+          "name": "Iron Man",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_spider_man",
+          "name": "Spider-Man",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_captain_america",
+          "name": "Captain America",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_thor",
+          "name": "Thor",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_hulk",
+          "name": "Hulk",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_black_widow",
+          "name": "Black Widow",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_doctor_strange",
+          "name": "Doctor Strange",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_wanda_maximoff",
+          "name": "Wanda Maximoff",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_black_panther",
+          "name": "Black Panther",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_loki",
+          "name": "Loki",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_ant_man",
+          "name": "Ant-Man",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_rocket_raccoon",
+          "name": "Rocket Raccoon",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_hawkeye",
+          "name": "Hawkeye",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_vision",
+          "name": "Vision",
+          "categoryId": "marvel",
+          "enabled": true
+        },
+        {
+          "id": "marvel_x_men",
+          "name": "X-Men",
+          "categoryId": "marvel",
+          "enabled": true
+        }
+      ],
+      "logoName": "Marvel Official Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Marvel_Logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "dc",
+      "name": "DC",
+      "items": [
+        {
+          "id": "dc_batman",
+          "name": "Batman",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_superman",
+          "name": "Superman",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_wonder_woman",
+          "name": "Wonder Woman",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_flash",
+          "name": "Flash",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_aquaman",
+          "name": "Aquaman",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_green_lantern",
+          "name": "Green Lantern",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_cyborg",
+          "name": "Cyborg",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_harley_quinn",
+          "name": "Harley Quinn",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_joker",
+          "name": "Joker",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_nightwing",
+          "name": "Nightwing",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_shazam",
+          "name": "Shazam",
+          "categoryId": "dc",
+          "enabled": true
+        },
+        {
+          "id": "dc_martian_manhunter",
+          "name": "Martian Manhunter",
+          "categoryId": "dc",
+          "enabled": true
+        }
+      ],
+      "logoName": "DC Comics Circle Emblem",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/DC_Comics_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:DC_Comics_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "wwe",
+      "name": "WWE",
+      "items": [
+        {
+          "id": "wwe_roman_reigns",
+          "name": "Roman Reigns",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_john_cena",
+          "name": "John Cena",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_the_rock",
+          "name": "The Rock",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_randy_orton",
+          "name": "Randy Orton",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_becky_lynch",
+          "name": "Becky Lynch",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_seth_rollins",
+          "name": "Seth Rollins",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_charlotte_flair",
+          "name": "Charlotte Flair",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_brock_lesnar",
+          "name": "Brock Lesnar",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_triple_h",
+          "name": "Triple H",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_bobby_lashley",
+          "name": "Bobby Lashley",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_aj_styles",
+          "name": "AJ Styles",
+          "categoryId": "wwe",
+          "enabled": true
+        },
+        {
+          "id": "wwe_cm_punk",
+          "name": "CM Punk",
+          "categoryId": "wwe",
+          "enabled": true
+        }
+      ],
+      "logoName": "WWE Official Scratch Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:WWE_Logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "bollywood",
+      "name": "Bollywood",
+      "items": [
+        {
+          "id": "bollywood_shah_rukh_khan",
+          "name": "Shah Rukh Khan",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_salman_khan",
+          "name": "Salman Khan",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_aamir_khan",
+          "name": "Aamir Khan",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_ranbir_kapoor",
+          "name": "Ranbir Kapoor",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_akshay_kumar",
+          "name": "Akshay Kumar",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_deepika_padukone",
+          "name": "Deepika Padukone",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_priyanka_chopra",
+          "name": "Priyanka Chopra Jonas",
+          "categoryId": "bollywood",
+          "enabled": true,
+          "aliases": [
+            "Priyanka Chopra"
+          ]
+        },
+        {
+          "id": "bollywood_kajol",
+          "name": "Kajol",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_varun_dhawan",
+          "name": "Varun Dhawan",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_shraddha_kapoor",
+          "name": "Shraddha Kapoor",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_alia_bhatt",
+          "name": "Alia Bhatt",
+          "categoryId": "bollywood",
+          "enabled": true
+        },
+        {
+          "id": "bollywood_hrithik_roshan",
+          "name": "Hrithik Roshan",
+          "categoryId": "bollywood",
+          "enabled": true
+        }
+      ],
+      "logoName": "Cinema Projector Emblem",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Film-strip.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Film-strip.svg",
+      "logoLicense": "Public Domain"
+    },
+    {
+      "id": "hollywood",
+      "name": "Hollywood",
+      "items": [
+        {
+          "id": "hollywood_tom_hanks",
+          "name": "Tom Hanks",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_leonardo_dicaprio",
+          "name": "Leonardo DiCaprio",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_margot_robbie",
+          "name": "Margot Robbie",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_dwayne_johnson",
+          "name": "Dwayne Johnson",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_brad_pitt",
+          "name": "Brad Pitt",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_angelina_jolie",
+          "name": "Angelina Jolie",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_ryan_reynolds",
+          "name": "Ryan Reynolds",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_emma_stone",
+          "name": "Emma Stone",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_keanu_reeves",
+          "name": "Keanu Reeves",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_zendaya",
+          "name": "Zendaya",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_tom_cruise",
+          "name": "Tom Cruise",
+          "categoryId": "hollywood",
+          "enabled": true
+        },
+        {
+          "id": "hollywood_julia_roberts",
+          "name": "Julia Roberts",
+          "categoryId": "hollywood",
+          "enabled": true
+        }
+      ],
+      "logoName": "Hollywood Sign Emblem",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hollywood_Sign_%28black%29.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(black).svg",
+      "logoLicense": "Public Domain"
+    },
+    {
+      "id": "indian-movies",
+      "name": "Indian Movies",
+      "items": [
+        {
+          "id": "indian-movies_3_idiots",
+          "name": "3 Idiots",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_dangal",
+          "name": "Dangal",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_pk",
+          "name": "PK",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_jawan",
+          "name": "Jawan",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_baahubali",
+          "name": "Baahubali",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_lagaan",
+          "name": "Lagaan",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_koi_mil_gaya",
+          "name": "Koi Mil Gaya",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_my_name_is_khan",
+          "name": "My Name Is Khan",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_chennai_express",
+          "name": "Chennai Express",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_bajrangi_bhaijaan",
+          "name": "Bajrangi Bhaijaan",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_ddlj",
+          "name": "DDLJ",
+          "categoryId": "indian-movies",
+          "enabled": true
+        },
+        {
+          "id": "indian-movies_padmaavat",
+          "name": "Padmaavat",
+          "categoryId": "indian-movies",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ipl-teams",
+      "name": "IPL Teams",
+      "items": [
+        {
+          "id": "ipl-teams_mumbai_indians",
+          "name": "Mumbai Indians",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_chennai_super_kings",
+          "name": "Chennai Super Kings",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_royal_challengers_bangalore",
+          "name": "Royal Challengers Bangalore",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_kolkata_knight_riders",
+          "name": "Kolkata Knight Riders",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_rajasthan_royals",
+          "name": "Rajasthan Royals",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_sunrisers_hyderabad",
+          "name": "Sunrisers Hyderabad",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_delhi_capitals",
+          "name": "Delhi Capitals",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_punjab_kings",
+          "name": "Punjab Kings",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_gujarat_titans",
+          "name": "Gujarat Titans",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_lucknow_super_giants",
+          "name": "Lucknow Super Giants",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        },
+        {
+          "id": "ipl-teams_rcb",
+          "name": "RCB",
+          "categoryId": "ipl-teams",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "cricket-players",
+      "name": "Cricket Players",
+      "items": [
+        {
+          "id": "cricket-players_virat_kohli",
+          "name": "Virat Kohli",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_ms_dhoni",
+          "name": "MS Dhoni",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_rohit_sharma",
+          "name": "Rohit Sharma",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_kl_rahul",
+          "name": "KL Rahul",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_hardik_pandya",
+          "name": "Hardik Pandya",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_jasprit_bumrah",
+          "name": "Jasprit Bumrah",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_ravindra_jadeja",
+          "name": "Ravindra Jadeja",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_shubman_gill",
+          "name": "Shubman Gill",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_yashasvi_jaiswal",
+          "name": "Yashasvi Jaiswal",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_suryakumar_yadav",
+          "name": "Suryakumar Yadav",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_moeen_ali",
+          "name": "Moeen Ali",
+          "categoryId": "cricket-players",
+          "enabled": true
+        },
+        {
+          "id": "cricket-players_ben_stokes",
+          "name": "Ben Stokes",
+          "categoryId": "cricket-players",
+          "enabled": true
+        }
+      ],
+      "logoName": "ICC Official Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/ICC_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:ICC_logo.svg",
+      "logoLicense": "CC BY-SA 4.0 / TM"
+    },
+    {
+      "id": "intl-cricket",
+      "name": "International Cricket Teams",
+      "items": [
+        {
+          "id": "intl-cricket_india",
+          "name": "India",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_australia",
+          "name": "Australia",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_england",
+          "name": "England",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_new_zealand",
+          "name": "New Zealand",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_south_africa",
+          "name": "South Africa",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_pakistan",
+          "name": "Pakistan",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_sri_lanka",
+          "name": "Sri Lanka",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_bangladesh",
+          "name": "Bangladesh",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_afghanistan",
+          "name": "Afghanistan",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_west_indies",
+          "name": "West Indies",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_netherlands",
+          "name": "Netherlands",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        },
+        {
+          "id": "intl-cricket_ireland",
+          "name": "Ireland",
+          "categoryId": "intl-cricket",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "football-clubs",
+      "name": "Football Clubs",
+      "items": [
+        {
+          "id": "football-clubs_real_madrid",
+          "name": "Real Madrid",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_barcelona",
+          "name": "Barcelona",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_manchester_united",
+          "name": "Manchester United",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_liverpool",
+          "name": "Liverpool",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_chelsea",
+          "name": "Chelsea",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_arsenal",
+          "name": "Arsenal",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_bayern_munich",
+          "name": "Bayern Munich",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_juventus",
+          "name": "Juventus",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_ac_milan",
+          "name": "AC Milan",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_inter_milan",
+          "name": "Inter Milan",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_paris_saint_germain",
+          "name": "Paris Saint-Germain",
+          "categoryId": "football-clubs",
+          "enabled": true
+        },
+        {
+          "id": "football-clubs_manchester_city",
+          "name": "Manchester City",
+          "categoryId": "football-clubs",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "football-players",
+      "name": "Football Players",
+      "items": [
+        {
+          "id": "football-players_cristiano_ronaldo",
+          "name": "Cristiano Ronaldo",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_lionel_messi",
+          "name": "Lionel Messi",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_kylian_mbappe",
+          "name": "Kylian Mbappe",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_erling_haaland",
+          "name": "Erling Haaland",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_kevin_de_bruyne",
+          "name": "Kevin De Bruyne",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_mohamed_salah",
+          "name": "Mohamed Salah",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_vinicius_jr",
+          "name": "Vinicius Jr",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_sergio_ramos",
+          "name": "Sergio Ramos",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_robert_lewandowski",
+          "name": "Robert Lewandowski",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_bukayo_saka",
+          "name": "Bukayo Saka",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_rodri",
+          "name": "Rodri",
+          "categoryId": "football-players",
+          "enabled": true
+        },
+        {
+          "id": "football-players_paul_pogba",
+          "name": "Paul Pogba",
+          "categoryId": "football-players",
+          "enabled": true
+        }
+      ],
+      "logoName": "FIFA Official Wordmark",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/FIFA_logo_without_slogan.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:FIFA_logo_without_slogan.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "pokemon",
+      "name": "Pokémon",
+      "items": [
+        {
+          "id": "pokemon_pikachu",
+          "name": "Pikachu",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+        },
+        {
+          "id": "pokemon_bulbasaur",
+          "name": "Bulbasaur",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "id": "pokemon_charmander",
+          "name": "Charmander",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "id": "pokemon_squirtle",
+          "name": "Squirtle",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+        },
+        {
+          "id": "pokemon_mew",
+          "name": "Mew",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png"
+        },
+        {
+          "id": "pokemon_snorlax",
+          "name": "Snorlax",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+        },
+        {
+          "id": "pokemon_ash_ketchum",
+          "name": "Ash Ketchum",
+          "categoryId": "pokemon",
+          "enabled": true
+        },
+        {
+          "id": "pokemon_psyduck",
+          "name": "Psyduck",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+        },
+        {
+          "id": "pokemon_gengar",
+          "name": "Gengar",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+        },
+        {
+          "id": "pokemon_eevee",
+          "name": "Eevee",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+        },
+        {
+          "id": "pokemon_meowth",
+          "name": "Meowth",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png"
+        },
+        {
+          "id": "pokemon_lapras",
+          "name": "Lapras",
+          "categoryId": "pokemon",
+          "enabled": true,
+          "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+        }
+      ],
+      "logoName": "International Pokémon Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:International_Pok%C3%A9mon_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "doraemon",
+      "name": "Doraemon",
+      "items": [
+        {
+          "id": "doraemon_doraemon",
+          "name": "Doraemon",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_nobita",
+          "name": "Nobita",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_shizuka",
+          "name": "Shizuka",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_gian",
+          "name": "Gian",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_suneo",
+          "name": "Suneo",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_dorami",
+          "name": "Dorami",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_big_g",
+          "name": "Big G",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_miyoko",
+          "name": "Miyoko",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_jaiko",
+          "name": "Jaiko",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_peko",
+          "name": "Peko",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_katsuo",
+          "name": "Katsuo",
+          "categoryId": "doraemon",
+          "enabled": true
+        },
+        {
+          "id": "doraemon_kopi",
+          "name": "Kopi",
+          "categoryId": "doraemon",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "chhota-bheem",
+      "name": "Chhota Bheem",
+      "items": [
+        {
+          "id": "chhota-bheem_chhota_bheem",
+          "name": "Chhota Bheem",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_raju",
+          "name": "Raju",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_kia",
+          "name": "Kia",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_jaggu",
+          "name": "Jaggu",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_dholu",
+          "name": "Dholu",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_bholu",
+          "name": "Bholu",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_indumati",
+          "name": "Indumati",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_kalia",
+          "name": "Kalia",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_bheem_s_mom",
+          "name": "Bheem's Mom",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_raju_s_dad",
+          "name": "Raju's Dad",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_motu",
+          "name": "Motu",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        },
+        {
+          "id": "chhota-bheem_patlu",
+          "name": "Patlu",
+          "categoryId": "chhota-bheem",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ben10",
+      "name": "Ben 10",
+      "items": [
+        {
+          "id": "ben10_ben_tennyson",
+          "name": "Ben Tennyson",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_four_arms",
+          "name": "Four Arms",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_heatblast",
+          "name": "Heatblast",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_xlr8",
+          "name": "XLR8",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_grey_matter",
+          "name": "Grey Matter",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_diamondhead",
+          "name": "Diamondhead",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_wildmutt",
+          "name": "Wildmutt",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_cannonbolt",
+          "name": "Cannonbolt",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_upchuck",
+          "name": "Upchuck",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_stinkfly",
+          "name": "Stinkfly",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_ghostfreak",
+          "name": "Ghostfreak",
+          "categoryId": "ben10",
+          "enabled": true
+        },
+        {
+          "id": "ben10_way_big",
+          "name": "Way Big",
+          "categoryId": "ben10",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "shinchan",
+      "name": "Shinchan",
+      "items": [
+        {
+          "id": "shinchan_shinchan",
+          "name": "Shinchan",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_himawari",
+          "name": "Himawari",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_misae",
+          "name": "Misae",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_shiro",
+          "name": "Shiro",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_kazama",
+          "name": "Kazama",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_nene",
+          "name": "Nene",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_bo_chan",
+          "name": "Bo-chan",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_masao",
+          "name": "Masao",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_action_kamen",
+          "name": "Action Kamen",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_tohru",
+          "name": "Tohru",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_mitsuhiko",
+          "name": "Mitsuhiko",
+          "categoryId": "shinchan",
+          "enabled": true
+        },
+        {
+          "id": "shinchan_midori",
+          "name": "Midori",
+          "categoryId": "shinchan",
+          "enabled": true
+        }
+      ],
+      "logoName": "Crayon Shin-chan Title Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Crayon_Shin-chan_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Crayon_Shin-chan_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto",
+      "items": [
+        {
+          "id": "naruto_naruto",
+          "name": "Naruto",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_sasuke",
+          "name": "Sasuke",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_sakura",
+          "name": "Sakura",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_kakashi",
+          "name": "Kakashi",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_gaara",
+          "name": "Gaara",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_hinata",
+          "name": "Hinata",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_shikamaru",
+          "name": "Shikamaru",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_jiraiya",
+          "name": "Jiraiya",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_itachi",
+          "name": "Itachi",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_neji",
+          "name": "Neji",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_madara",
+          "name": "Madara",
+          "categoryId": "naruto",
+          "enabled": true
+        },
+        {
+          "id": "naruto_rock_lee",
+          "name": "Rock Lee",
+          "categoryId": "naruto",
+          "enabled": true
+        }
+      ],
+      "logoName": "Naruto Official Wordmark",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Naruto_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Naruto_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "dragon-ball",
+      "name": "Dragon Ball",
+      "items": [
+        {
+          "id": "dragon-ball_goku",
+          "name": "Goku",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_vegeta",
+          "name": "Vegeta",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_piccolo",
+          "name": "Piccolo",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_gohan",
+          "name": "Gohan",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_frieza",
+          "name": "Frieza",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_cell",
+          "name": "Cell",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_majin_buu",
+          "name": "Majin Buu",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_beerus",
+          "name": "Beerus",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_whis",
+          "name": "Whis",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_trunks",
+          "name": "Trunks",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_krillin",
+          "name": "Krillin",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        },
+        {
+          "id": "dragon-ball_pan",
+          "name": "Pan",
+          "categoryId": "dragon-ball",
+          "enabled": true
+        }
+      ],
+      "logoName": "Dragon Ball Z Wordmark",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Dragon_Ball_Z_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Dragon_Ball_Z_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft",
+      "items": [
+        {
+          "id": "minecraft_steve",
+          "name": "Steve",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_enderman",
+          "name": "Enderman",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_creeper",
+          "name": "Creeper",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_zombie",
+          "name": "Zombie",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_skeleton",
+          "name": "Skeleton",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_villager",
+          "name": "Villager",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_diamond_pickaxe",
+          "name": "Diamond Pickaxe",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_nether_portal",
+          "name": "Nether Portal",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_crafting_table",
+          "name": "Crafting Table",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_ender_dragon",
+          "name": "Ender Dragon",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_diamond_armor",
+          "name": "Diamond Armor",
+          "categoryId": "minecraft",
+          "enabled": true
+        },
+        {
+          "id": "minecraft_bedrock",
+          "name": "Bedrock",
+          "categoryId": "minecraft",
+          "enabled": true
+        }
+      ],
+      "logoName": "Minecraft Official 3D Block Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Minecraft_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Minecraft_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "free-fire",
+      "name": "Free Fire",
+      "items": [
+        {
+          "id": "free-fire_alok",
+          "name": "Alok",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_chrono",
+          "name": "Chrono",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_misha",
+          "name": "Misha",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_jota",
+          "name": "Jota",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_kelly",
+          "name": "Kelly",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_m1887",
+          "name": "M1887",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_mp40",
+          "name": "MP40",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_gloo_wall",
+          "name": "Gloo Wall",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_parachute",
+          "name": "Parachute",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_safe_zone",
+          "name": "Safe Zone",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_med_kit",
+          "name": "Med Kit",
+          "categoryId": "free-fire",
+          "enabled": true
+        },
+        {
+          "id": "free-fire_booyah",
+          "name": "Booyah",
+          "categoryId": "free-fire",
+          "enabled": true
+        }
+      ],
+      "logoName": "Free Fire Official Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Freefirelogo.png",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Freefirelogo.png",
+      "logoLicense": "CC BY-SA 4.0 / TM"
+    },
+    {
+      "id": "bgmi",
+      "name": "BGMI",
+      "items": [
+        {
+          "id": "bgmi_scout",
+          "name": "Scout",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_ranger",
+          "name": "Ranger",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_robo",
+          "name": "Robo",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_m416",
+          "name": "M416",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_akm",
+          "name": "AKM",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_ugr",
+          "name": "UGR",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_club",
+          "name": "Club",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_mountain_bike",
+          "name": "Mountain Bike",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_drone",
+          "name": "Drone",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_supply_crate",
+          "name": "Supply Crate",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_red_zone",
+          "name": "Red Zone",
+          "categoryId": "bgmi",
+          "enabled": true
+        },
+        {
+          "id": "bgmi_chicken_dinner",
+          "name": "Chicken Dinner",
+          "categoryId": "bgmi",
+          "enabled": true
+        }
+      ],
+      "logoName": "Battlegrounds Mobile India Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Battlegrounds_Mobile_India%2C_BGMI_LOGO_white_-_1082x360.png",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Battlegrounds_Mobile_India,_BGMI_LOGO_white_-_1082x360.png",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "cartoon-characters",
+      "name": "Cartoon Characters",
+      "items": [
+        {
+          "id": "cartoon-characters_tom",
+          "name": "Tom",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_jerry",
+          "name": "Jerry",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_scooby_doo",
+          "name": "Scooby Doo",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_mickey_mouse",
+          "name": "Mickey Mouse",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_donald_duck",
+          "name": "Donald Duck",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_pluto",
+          "name": "Pluto",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_bugs_bunny",
+          "name": "Bugs Bunny",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_tweety",
+          "name": "Tweety",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_peppa_pig",
+          "name": "Peppa Pig",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_spongebob",
+          "name": "SpongeBob",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_popeye",
+          "name": "Popeye",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        },
+        {
+          "id": "cartoon-characters_johnny_bravo",
+          "name": "Johnny Bravo",
+          "categoryId": "cartoon-characters",
+          "enabled": true
+        }
+      ],
+      "logoName": "Cartoon Network Modern Logo",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Cartoon_Network_2010_logo.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "actors",
+      "name": "Actors",
+      "items": [
+        {
+          "id": "actors_ranveer_singh",
+          "name": "Ranveer Singh",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_varun_dhawan",
+          "name": "Varun Dhawan",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_ayushmann_khurrana",
+          "name": "Ayushmann Khurrana",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_vicky_kaushal",
+          "name": "Vicky Kaushal",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_kartik_aaryan",
+          "name": "Kartik Aaryan",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_sidharth_malhotra",
+          "name": "Sidharth Malhotra",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_deepika_padukone",
+          "name": "Deepika Padukone",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_sara_ali_khan",
+          "name": "Sara Ali Khan",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_taapsee_pannu",
+          "name": "Taapsee Pannu",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_kareena_kapoor",
+          "name": "Kareena Kapoor",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_kangana_ranaut",
+          "name": "Kangana Ranaut",
+          "categoryId": "actors",
+          "enabled": true
+        },
+        {
+          "id": "actors_amitabh_bachchan",
+          "name": "Amitabh Bachchan",
+          "categoryId": "actors",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "singers",
+      "name": "Singers",
+      "items": [
+        {
+          "id": "singers_arijit_singh",
+          "name": "Arijit Singh",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_shreya_ghoshal",
+          "name": "Shreya Ghoshal",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_badshah",
+          "name": "Badshah",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_neha_kakkar",
+          "name": "Neha Kakkar",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_atif_aslam",
+          "name": "Atif Aslam",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_darshan_raval",
+          "name": "Darshan Raval",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_sunidhi_chauhan",
+          "name": "Sunidhi Chauhan",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_yo_yo_honey_singh",
+          "name": "Yo Yo Honey Singh",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_anushka_sharma",
+          "name": "Anushka Sharma",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_ariana_grande",
+          "name": "Ariana Grande",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_justin_bieber",
+          "name": "Justin Bieber",
+          "categoryId": "singers",
+          "enabled": true
+        },
+        {
+          "id": "singers_taylor_swift",
+          "name": "Taylor Swift",
+          "categoryId": "singers",
+          "enabled": true
+        }
+      ],
+      "logoName": "Musical Notes Emblem",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Musical_notes.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Musical_notes.svg",
+      "logoLicense": "Public Domain"
+    },
+    {
+      "id": "youtubers",
+      "name": "YouTubers",
+      "items": [
+        {
+          "id": "youtubers_carryminati",
+          "name": "CarryMinati",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_bhuvan_bam",
+          "name": "Bhuvan Bam",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_ashish_chanchlani",
+          "name": "Ashish Chanchlani",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_prajakta_koli",
+          "name": "Prajakta Koli",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_amit_bhadana",
+          "name": "Amit Bhadana",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_technical_guruji",
+          "name": "Technical Guruji",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_sandeep_maheshwari",
+          "name": "Sandeep Maheshwari",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_gaurav_taneja",
+          "name": "Gaurav Taneja",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_bb_ki_vines",
+          "name": "BB Ki Vines",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_tanmay_bhat",
+          "name": "Tanmay Bhat",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_bharat_khuar",
+          "name": "Bharat Khuar",
+          "categoryId": "youtubers",
+          "enabled": true
+        },
+        {
+          "id": "youtubers_pewdiepie",
+          "name": "PewDiePie",
+          "categoryId": "youtubers",
+          "enabled": true
+        }
+      ],
+      "logoName": "YouTube Official Red Play Icon",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_(2017).svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "athletes",
+      "name": "Athletes",
+      "items": [
+        {
+          "id": "athletes_usain_bolt",
+          "name": "Usain Bolt",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_michael_phelps",
+          "name": "Michael Phelps",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_serena_williams",
+          "name": "Serena Williams",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_sachin_tendulkar",
+          "name": "Sachin Tendulkar",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_virat_kohli",
+          "name": "Virat Kohli",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_sania_mirza",
+          "name": "Sania Mirza",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_ms_dhoni",
+          "name": "MS Dhoni",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_rafael_nadal",
+          "name": "Rafael Nadal",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_novak_djokovic",
+          "name": "Novak Djokovic",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_mary_kom",
+          "name": "Mary Kom",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_lebron_james",
+          "name": "LeBron James",
+          "categoryId": "athletes",
+          "enabled": true
+        },
+        {
+          "id": "athletes_cristiano_ronaldo",
+          "name": "Cristiano Ronaldo",
+          "categoryId": "athletes",
+          "enabled": true
+        }
+      ],
+      "logoName": "Olympic Rings Emblem",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg",
+      "logoSourcePage": "https://commons.wikimedia.org/wiki/File:Olympic_rings_without_rims.svg",
+      "logoLicense": "Public Domain / TM"
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "items": [
+        {
+          "id": "animals_tiger",
+          "name": "Tiger",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_lion",
+          "name": "Lion",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_elephant",
+          "name": "Elephant",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_giraffe",
+          "name": "Giraffe",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_dolphin",
+          "name": "Dolphin",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_panda",
+          "name": "Panda",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_horse",
+          "name": "Horse",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_wolf",
+          "name": "Wolf",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_shark",
+          "name": "Shark",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_rabbit",
+          "name": "Rabbit",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_koala",
+          "name": "Koala",
+          "categoryId": "animals",
+          "enabled": true
+        },
+        {
+          "id": "animals_eagle",
+          "name": "Eagle",
+          "categoryId": "animals",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "cars",
+      "name": "Cars",
+      "items": [
+        {
+          "id": "cars_ferrari",
+          "name": "Ferrari",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_lamborghini",
+          "name": "Lamborghini",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_bmw",
+          "name": "BMW",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_mercedes",
+          "name": "Mercedes",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_audi",
+          "name": "Audi",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_porsche",
+          "name": "Porsche",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_tesla",
+          "name": "Tesla",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_range_rover",
+          "name": "Range Rover",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_ford_mustang",
+          "name": "Ford Mustang",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_honda_civic",
+          "name": "Honda Civic",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_maruti_swift",
+          "name": "Maruti Swift",
+          "categoryId": "cars",
+          "enabled": true
+        },
+        {
+          "id": "cars_rolls_royce",
+          "name": "Rolls Royce",
+          "categoryId": "cars",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bikes",
+      "name": "Bikes",
+      "items": [
+        {
+          "id": "bikes_kawasaki_ninja",
+          "name": "Kawasaki Ninja",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_yamaha_r15",
+          "name": "Yamaha R15",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_royal_enfield",
+          "name": "Royal Enfield",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_honda_cbr",
+          "name": "Honda CBR",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_tvs_apache",
+          "name": "TVS Apache",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_bajaj_pulsar",
+          "name": "Bajaj Pulsar",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_suzuki_gsx",
+          "name": "Suzuki GSX",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_ducati_panigale",
+          "name": "Ducati Panigale",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_ktm_duke",
+          "name": "KTM Duke",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_harley_davidson",
+          "name": "Harley Davidson",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_triumph_bonneville",
+          "name": "Triumph Bonneville",
+          "categoryId": "bikes",
+          "enabled": true
+        },
+        {
+          "id": "bikes_bmw_g_310_gs",
+          "name": "BMW G 310 GS",
+          "categoryId": "bikes",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "items": [
+        {
+          "id": "food_pizza",
+          "name": "Pizza",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_burger",
+          "name": "Burger",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_biryani",
+          "name": "Biryani",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_pasta",
+          "name": "Pasta",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_samosa",
+          "name": "Samosa",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_dosa",
+          "name": "Dosa",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_noodles",
+          "name": "Noodles",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_tacos",
+          "name": "Tacos",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_pancake",
+          "name": "Pancake",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_ice_cream",
+          "name": "Ice Cream",
+          "categoryId": "food",
+          "enabled": true
+        },
+        {
+          "id": "food_fries",
+          "name": "Fries",
+          "categoryId": "food",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "countries",
+      "name": "Countries",
+      "items": [
+        {
+          "id": "countries_india",
+          "name": "India",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_japan",
+          "name": "Japan",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_france",
+          "name": "France",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_brazil",
+          "name": "Brazil",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_usa",
+          "name": "USA",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_canada",
+          "name": "Canada",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_germany",
+          "name": "Germany",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_italy",
+          "name": "Italy",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_australia",
+          "name": "Australia",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_south_korea",
+          "name": "South Korea",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_england",
+          "name": "England",
+          "categoryId": "countries",
+          "enabled": true
+        },
+        {
+          "id": "countries_thailand",
+          "name": "Thailand",
+          "categoryId": "countries",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "cities",
+      "name": "Cities",
+      "items": [
+        {
+          "id": "cities_delhi",
+          "name": "Delhi",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_mumbai",
+          "name": "Mumbai",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_paris",
+          "name": "Paris",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_london",
+          "name": "London",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_tokyo",
+          "name": "Tokyo",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_new_york",
+          "name": "New York",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_dubai",
+          "name": "Dubai",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_singapore",
+          "name": "Singapore",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_bangkok",
+          "name": "Bangkok",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_bengaluru",
+          "name": "Bengaluru",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_seoul",
+          "name": "Seoul",
+          "categoryId": "cities",
+          "enabled": true
+        },
+        {
+          "id": "cities_rome",
+          "name": "Rome",
+          "categoryId": "cities",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "brands",
+      "name": "Brands",
+      "items": [
+        {
+          "id": "brands_nike",
+          "name": "Nike",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_adidas",
+          "name": "Adidas",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_puma",
+          "name": "Puma",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_apple",
+          "name": "Apple",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_samsung",
+          "name": "Samsung",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_amazon",
+          "name": "Amazon",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_google",
+          "name": "Google",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_microsoft",
+          "name": "Microsoft",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_coca_cola",
+          "name": "Coca Cola",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_pepsi",
+          "name": "Pepsi",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_starbucks",
+          "name": "Starbucks",
+          "categoryId": "brands",
+          "enabled": true
+        },
+        {
+          "id": "brands_netflix",
+          "name": "Netflix",
+          "categoryId": "brands",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "superpowers",
+      "name": "Superpowers",
+      "items": [
+        {
+          "id": "superpowers_flight",
+          "name": "Flight",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_teleportation",
+          "name": "Teleportation",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_super_strength",
+          "name": "Super Strength",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_time_travel",
+          "name": "Time Travel",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_shapeshifting",
+          "name": "Shapeshifting",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_mind_reading",
+          "name": "Mind Reading",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_invisibility",
+          "name": "Invisibility",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_healing",
+          "name": "Healing",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_lightning_control",
+          "name": "Lightning Control",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_weather_control",
+          "name": "Weather Control",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_energy_blast",
+          "name": "Energy Blast",
+          "categoryId": "superpowers",
+          "enabled": true
+        },
+        {
+          "id": "superpowers_laser_vision",
+          "name": "Laser Vision",
+          "categoryId": "superpowers",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "custom",
+      "name": "Custom Category",
+      "items": [
+        {
+          "id": "custom_custom_item_1",
+          "name": "Custom Item 1",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_2",
+          "name": "Custom Item 2",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_3",
+          "name": "Custom Item 3",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_4",
+          "name": "Custom Item 4",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_5",
+          "name": "Custom Item 5",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_6",
+          "name": "Custom Item 6",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_7",
+          "name": "Custom Item 7",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_8",
+          "name": "Custom Item 8",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_9",
+          "name": "Custom Item 9",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_10",
+          "name": "Custom Item 10",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_11",
+          "name": "Custom Item 11",
+          "categoryId": "custom",
+          "enabled": true
+        },
+        {
+          "id": "custom_custom_item_12",
+          "name": "Custom Item 12",
+          "categoryId": "custom",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4309 @@
+{
+  "categories": [
+    {
+      "name": "Bollywood",
+      "characters": [
+        {
+          "name": "Shah Rukh Khan",
+          "rank": 1
+        },
+        {
+          "name": "Amitabh Bachchan",
+          "rank": 2
+        },
+        {
+          "name": "Deepika Padukone",
+          "rank": 3
+        },
+        {
+          "name": "Priyanka Chopra",
+          "rank": 4
+        },
+        {
+          "name": "Salman Khan",
+          "rank": 5
+        },
+        {
+          "name": "Aamir Khan",
+          "rank": 6
+        },
+        {
+          "name": "Ranveer Singh",
+          "rank": 7
+        },
+        {
+          "name": "Alia Bhatt",
+          "rank": 8
+        },
+        {
+          "name": "Hrithik Roshan",
+          "rank": 9
+        },
+        {
+          "name": "Katrina Kaif",
+          "rank": 10
+        },
+        {
+          "name": "Akshay Kumar",
+          "rank": 11
+        },
+        {
+          "name": "Ranbir Kapoor",
+          "rank": 12
+        },
+        {
+          "name": "Kareena Kapoor",
+          "rank": 13
+        },
+        {
+          "name": "Anushka Sharma",
+          "rank": 14
+        },
+        {
+          "name": "Ajay Devgn",
+          "rank": 15
+        },
+        {
+          "name": "Varun Dhawan",
+          "rank": 16
+        },
+        {
+          "name": "Kangana Ranaut",
+          "rank": 17
+        },
+        {
+          "name": "Shahid Kapoor",
+          "rank": 18
+        },
+        {
+          "name": "Kriti Sanon",
+          "rank": 19
+        },
+        {
+          "name": "Kartik Aaryan",
+          "rank": 20
+        },
+        {
+          "name": "Ayushmann Khurrana",
+          "rank": 21
+        },
+        {
+          "name": "Vidya Balan",
+          "rank": 22
+        },
+        {
+          "name": "Rajkummar Rao",
+          "rank": 23
+        },
+        {
+          "name": "Vicky Kaushal",
+          "rank": 24
+        },
+        {
+          "name": "Shraddha Kapoor",
+          "rank": 25
+        },
+        {
+          "name": "Sidharth Malhotra",
+          "rank": 26
+        },
+        {
+          "name": "Kiara Advani",
+          "rank": 27
+        },
+        {
+          "name": "John Abraham",
+          "rank": 28
+        },
+        {
+          "name": "Tiger Shroff",
+          "rank": 29
+        },
+        {
+          "name": "Saif Ali Khan",
+          "rank": 30
+        },
+        {
+          "name": "Kajol",
+          "rank": 31
+        },
+        {
+          "name": "Rani Mukerji",
+          "rank": 32
+        },
+        {
+          "name": "Anupam Kher",
+          "rank": 33
+        },
+        {
+          "name": "Nawazuddin Siddiqui",
+          "rank": 34
+        },
+        {
+          "name": "Manoj Bajpayee",
+          "rank": 35
+        },
+        {
+          "name": "Pankaj Tripathi",
+          "rank": 36
+        },
+        {
+          "name": "Suniel Shetty",
+          "rank": 37
+        },
+        {
+          "name": "Sanjay Dutt",
+          "rank": 38
+        },
+        {
+          "name": "Govinda",
+          "rank": 39
+        },
+        {
+          "name": "Anil Kapoor",
+          "rank": 40
+        },
+        {
+          "name": "Madhuri Dixit",
+          "rank": 41
+        },
+        {
+          "name": "Juhi Chawla",
+          "rank": 42
+        },
+        {
+          "name": "Preity Zinta",
+          "rank": 43
+        },
+        {
+          "name": "Raveena Tandon",
+          "rank": 44
+        },
+        {
+          "name": "Tabu",
+          "rank": 45
+        },
+        {
+          "name": "Disha Patani",
+          "rank": 46
+        },
+        {
+          "name": "Sara Ali Khan",
+          "rank": 47
+        },
+        {
+          "name": "Janhvi Kapoor",
+          "rank": 48
+        },
+        {
+          "name": "Ananya Panday",
+          "rank": 49
+        },
+        {
+          "name": "Bobby Deol",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Hollywood",
+      "characters": [
+        {
+          "name": "Leonardo DiCaprio",
+          "rank": 1
+        },
+        {
+          "name": "Robert Downey Jr.",
+          "rank": 2
+        },
+        {
+          "name": "Scarlett Johansson",
+          "rank": 3
+        },
+        {
+          "name": "Tom Cruise",
+          "rank": 4
+        },
+        {
+          "name": "Keanu Reeves",
+          "rank": 5
+        },
+        {
+          "name": "Brad Pitt",
+          "rank": 6
+        },
+        {
+          "name": "Emma Watson",
+          "rank": 7
+        },
+        {
+          "name": "Chris Evans",
+          "rank": 8
+        },
+        {
+          "name": "Dwayne Johnson",
+          "rank": 9
+        },
+        {
+          "name": "Margot Robbie",
+          "rank": 10
+        },
+        {
+          "name": "Christian Bale",
+          "rank": 11
+        },
+        {
+          "name": "Johnny Depp",
+          "rank": 12
+        },
+        {
+          "name": "Tom Hanks",
+          "rank": 13
+        },
+        {
+          "name": "Morgan Freeman",
+          "rank": 14
+        },
+        {
+          "name": "Matt Damon",
+          "rank": 15
+        },
+        {
+          "name": "Anne Hathaway",
+          "rank": 16
+        },
+        {
+          "name": "Natalie Portman",
+          "rank": 17
+        },
+        {
+          "name": "Hugh Jackman",
+          "rank": 18
+        },
+        {
+          "name": "Chris Hemsworth",
+          "rank": 19
+        },
+        {
+          "name": "Mark Ruffalo",
+          "rank": 20
+        },
+        {
+          "name": "Cillian Murphy",
+          "rank": 21
+        },
+        {
+          "name": "Ryan Gosling",
+          "rank": 22
+        },
+        {
+          "name": "Emma Stone",
+          "rank": 23
+        },
+        {
+          "name": "Jennifer Lawrence",
+          "rank": 24
+        },
+        {
+          "name": "Ryan Reynolds",
+          "rank": 25
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "rank": 26
+        },
+        {
+          "name": "Will Smith",
+          "rank": 27
+        },
+        {
+          "name": "Denzel Washington",
+          "rank": 28
+        },
+        {
+          "name": "Meryl Streep",
+          "rank": 29
+        },
+        {
+          "name": "Charlize Theron",
+          "rank": 30
+        },
+        {
+          "name": "Joaquin Phoenix",
+          "rank": 31
+        },
+        {
+          "name": "Matthew McConaughey",
+          "rank": 32
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "rank": 33
+        },
+        {
+          "name": "Tom Hardy",
+          "rank": 34
+        },
+        {
+          "name": "Zendaya",
+          "rank": 35
+        },
+        {
+          "name": "Florence Pugh",
+          "rank": 36
+        },
+        {
+          "name": "Timothée Chalamet",
+          "rank": 37
+        },
+        {
+          "name": "Daniel Craig",
+          "rank": 38
+        },
+        {
+          "name": "Harrison Ford",
+          "rank": 39
+        },
+        {
+          "name": "Al Pacino",
+          "rank": 40
+        },
+        {
+          "name": "Robert De Niro",
+          "rank": 41
+        },
+        {
+          "name": "Gal Gadot",
+          "rank": 42
+        },
+        {
+          "name": "Henry Cavill",
+          "rank": 43
+        },
+        {
+          "name": "Idris Elba",
+          "rank": 44
+        },
+        {
+          "name": "Gary Oldman",
+          "rank": 45
+        },
+        {
+          "name": "Michael Fassbender",
+          "rank": 46
+        },
+        {
+          "name": "Jake Gyllenhaal",
+          "rank": 47
+        },
+        {
+          "name": "Pedro Pascal",
+          "rank": 48
+        },
+        {
+          "name": "Oscar Isaac",
+          "rank": 49
+        },
+        {
+          "name": "Kate Winslet",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "WWE",
+      "characters": [
+        {
+          "name": "John Cena",
+          "rank": 1
+        },
+        {
+          "name": "The Undertaker",
+          "rank": 2
+        },
+        {
+          "name": "Roman Reigns",
+          "rank": 3
+        },
+        {
+          "name": "Brock Lesnar",
+          "rank": 4
+        },
+        {
+          "name": "Triple H",
+          "rank": 5
+        },
+        {
+          "name": "Stone Cold Steve Austin",
+          "rank": 6
+        },
+        {
+          "name": "The Rock",
+          "rank": 7
+        },
+        {
+          "name": "Randy Orton",
+          "rank": 8
+        },
+        {
+          "name": "Seth Rollins",
+          "rank": 9
+        },
+        {
+          "name": "Edge",
+          "rank": 10
+        },
+        {
+          "name": "Rey Mysterio",
+          "rank": 11
+        },
+        {
+          "name": "Shawn Michaels",
+          "rank": 12
+        },
+        {
+          "name": "Bret Hart",
+          "rank": 13
+        },
+        {
+          "name": "Kane",
+          "rank": 14
+        },
+        {
+          "name": "Kurt Angle",
+          "rank": 15
+        },
+        {
+          "name": "Batista",
+          "rank": 16
+        },
+        {
+          "name": "Chris Jericho",
+          "rank": 17
+        },
+        {
+          "name": "Big Show",
+          "rank": 18
+        },
+        {
+          "name": "AJ Styles",
+          "rank": 19
+        },
+        {
+          "name": "Drew McIntyre",
+          "rank": 20
+        },
+        {
+          "name": "Bobby Lashley",
+          "rank": 21
+        },
+        {
+          "name": "Cody Rhodes",
+          "rank": 22
+        },
+        {
+          "name": "CM Punk",
+          "rank": 23
+        },
+        {
+          "name": "Sheamus",
+          "rank": 24
+        },
+        {
+          "name": "Kevin Owens",
+          "rank": 25
+        },
+        {
+          "name": "Sami Zayn",
+          "rank": 26
+        },
+        {
+          "name": "Finn Balor",
+          "rank": 27
+        },
+        {
+          "name": "Gunther",
+          "rank": 28
+        },
+        {
+          "name": "LA Knight",
+          "rank": 29
+        },
+        {
+          "name": "Rhea Ripley",
+          "rank": 30
+        },
+        {
+          "name": "Becky Lynch",
+          "rank": 31
+        },
+        {
+          "name": "Charlotte Flair",
+          "rank": 32
+        },
+        {
+          "name": "Sasha Banks",
+          "rank": 33
+        },
+        {
+          "name": "Bianca Belair",
+          "rank": 34
+        },
+        {
+          "name": "Bayley",
+          "rank": 35
+        },
+        {
+          "name": "Asuka",
+          "rank": 36
+        },
+        {
+          "name": "Alexa Bliss",
+          "rank": 37
+        },
+        {
+          "name": "Ronda Rousey",
+          "rank": 38
+        },
+        {
+          "name": "Mick Foley",
+          "rank": 39
+        },
+        {
+          "name": "Eddie Guerrero",
+          "rank": 40
+        },
+        {
+          "name": "Ric Flair",
+          "rank": 41
+        },
+        {
+          "name": "Hulk Hogan",
+          "rank": 42
+        },
+        {
+          "name": "Roddy Piper",
+          "rank": 43
+        },
+        {
+          "name": "Ultimate Warrior",
+          "rank": 44
+        },
+        {
+          "name": "Andre the Giant",
+          "rank": 45
+        },
+        {
+          "name": "Bray Wyatt",
+          "rank": 46
+        },
+        {
+          "name": "Rob Van Dam",
+          "rank": 47
+        },
+        {
+          "name": "Jeff Hardy",
+          "rank": 48
+        },
+        {
+          "name": "Matt Hardy",
+          "rank": 49
+        },
+        {
+          "name": "Booker T",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Indian Cricket Players",
+      "characters": [
+        {
+          "name": "Virat Kohli",
+          "rank": 1
+        },
+        {
+          "name": "MS Dhoni",
+          "rank": 2
+        },
+        {
+          "name": "Rohit Sharma",
+          "rank": 3
+        },
+        {
+          "name": "Sachin Tendulkar",
+          "rank": 4
+        },
+        {
+          "name": "Jasprit Bumrah",
+          "rank": 5
+        },
+        {
+          "name": "Kapil Dev",
+          "rank": 6
+        },
+        {
+          "name": "Sunil Gavaskar",
+          "rank": 7
+        },
+        {
+          "name": "Sourav Ganguly",
+          "rank": 8
+        },
+        {
+          "name": "Rahul Dravid",
+          "rank": 9
+        },
+        {
+          "name": "VVS Laxman",
+          "rank": 10
+        },
+        {
+          "name": "Virender Sehwag",
+          "rank": 11
+        },
+        {
+          "name": "Yuvraj Singh",
+          "rank": 12
+        },
+        {
+          "name": "Gautam Gambhir",
+          "rank": 13
+        },
+        {
+          "name": "Harbhajan Singh",
+          "rank": 14
+        },
+        {
+          "name": "Zaheer Khan",
+          "rank": 15
+        },
+        {
+          "name": "Anil Kumble",
+          "rank": 16
+        },
+        {
+          "name": "Ravindra Jadeja",
+          "rank": 17
+        },
+        {
+          "name": "Ravichandran Ashwin",
+          "rank": 18
+        },
+        {
+          "name": "Shikhar Dhawan",
+          "rank": 19
+        },
+        {
+          "name": "KL Rahul",
+          "rank": 20
+        },
+        {
+          "name": "Rishabh Pant",
+          "rank": 21
+        },
+        {
+          "name": "Hardik Pandya",
+          "rank": 22
+        },
+        {
+          "name": "Suryakumar Yadav",
+          "rank": 23
+        },
+        {
+          "name": "Shreyas Iyer",
+          "rank": 24
+        },
+        {
+          "name": "Shubman Gill",
+          "rank": 25
+        },
+        {
+          "name": "Mohammed Shami",
+          "rank": 26
+        },
+        {
+          "name": "Mohammed Siraj",
+          "rank": 27
+        },
+        {
+          "name": "Kuldeep Yadav",
+          "rank": 28
+        },
+        {
+          "name": "Yuzvendra Chahal",
+          "rank": 29
+        },
+        {
+          "name": "Bhuvneshwar Kumar",
+          "rank": 30
+        },
+        {
+          "name": "Ishant Sharma",
+          "rank": 31
+        },
+        {
+          "name": "Umesh Yadav",
+          "rank": 32
+        },
+        {
+          "name": "Ajinkya Rahane",
+          "rank": 33
+        },
+        {
+          "name": "Cheteshwar Pujara",
+          "rank": 34
+        },
+        {
+          "name": "Ashish Nehra",
+          "rank": 35
+        },
+        {
+          "name": "Suresh Raina",
+          "rank": 36
+        },
+        {
+          "name": "Dinesh Karthik",
+          "rank": 37
+        },
+        {
+          "name": "Irfan Pathan",
+          "rank": 38
+        },
+        {
+          "name": "Yusuf Pathan",
+          "rank": 39
+        },
+        {
+          "name": "RP Singh",
+          "rank": 40
+        },
+        {
+          "name": "Pravin Tambe",
+          "rank": 41
+        },
+        {
+          "name": "Axar Patel",
+          "rank": 42
+        },
+        {
+          "name": "Shardul Thakur",
+          "rank": 43
+        },
+        {
+          "name": "Arshdeep Singh",
+          "rank": 44
+        },
+        {
+          "name": "Sanju Samson",
+          "rank": 45
+        },
+        {
+          "name": "Ishan Kishan",
+          "rank": 46
+        },
+        {
+          "name": "Prithvi Shaw",
+          "rank": 47
+        },
+        {
+          "name": "Mayank Agarwal",
+          "rank": 48
+        },
+        {
+          "name": "Ambati Rayudu",
+          "rank": 49
+        },
+        {
+          "name": "Robin Uthappa",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "International Cricket Players",
+      "characters": [
+        {
+          "name": "Kane Williamson",
+          "rank": 1
+        },
+        {
+          "name": "Steve Smith",
+          "rank": 2
+        },
+        {
+          "name": "Joe Root",
+          "rank": 3
+        },
+        {
+          "name": "Ben Stokes",
+          "rank": 4
+        },
+        {
+          "name": "Babar Azam",
+          "rank": 5
+        },
+        {
+          "name": "Ricky Ponting",
+          "rank": 6
+        },
+        {
+          "name": "Brian Lara",
+          "rank": 7
+        },
+        {
+          "name": "Shane Warne",
+          "rank": 8
+        },
+        {
+          "name": "Glenn McGrath",
+          "rank": 9
+        },
+        {
+          "name": "Jacques Kallis",
+          "rank": 10
+        },
+        {
+          "name": "AB de Villiers",
+          "rank": 11
+        },
+        {
+          "name": "Dale Steyn",
+          "rank": 12
+        },
+        {
+          "name": "Hashim Amla",
+          "rank": 13
+        },
+        {
+          "name": "Kumar Sangakkara",
+          "rank": 14
+        },
+        {
+          "name": "Mahela Jayawardene",
+          "rank": 15
+        },
+        {
+          "name": "Muttiah Muralitharan",
+          "rank": 16
+        },
+        {
+          "name": "Wasim Akram",
+          "rank": 17
+        },
+        {
+          "name": "Waqar Younis",
+          "rank": 18
+        },
+        {
+          "name": "Shoaib Akhtar",
+          "rank": 19
+        },
+        {
+          "name": "Inzamam-ul-Haq",
+          "rank": 20
+        },
+        {
+          "name": "Sir Vivian Richards",
+          "rank": 21
+        },
+        {
+          "name": "Sir Garfield Sobers",
+          "rank": 22
+        },
+        {
+          "name": "Sir Ian Botham",
+          "rank": 23
+        },
+        {
+          "name": "Richard Hadlee",
+          "rank": 24
+        },
+        {
+          "name": "Imran Khan",
+          "rank": 25
+        },
+        {
+          "name": "David Warner",
+          "rank": 26
+        },
+        {
+          "name": "Pat Cummins",
+          "rank": 27
+        },
+        {
+          "name": "Mitchell Starc",
+          "rank": 28
+        },
+        {
+          "name": "Josh Hazlewood",
+          "rank": 29
+        },
+        {
+          "name": "Marnus Labuschagne",
+          "rank": 30
+        },
+        {
+          "name": "Glenn Maxwell",
+          "rank": 31
+        },
+        {
+          "name": "Travis Head",
+          "rank": 32
+        },
+        {
+          "name": "Trent Boult",
+          "rank": 33
+        },
+        {
+          "name": "Tim Southee",
+          "rank": 34
+        },
+        {
+          "name": "Brendon McCullum",
+          "rank": 35
+        },
+        {
+          "name": "Ross Taylor",
+          "rank": 36
+        },
+        {
+          "name": "James Anderson",
+          "rank": 37
+        },
+        {
+          "name": "Stuart Broad",
+          "rank": 38
+        },
+        {
+          "name": "Jos Buttler",
+          "rank": 39
+        },
+        {
+          "name": "Jonny Bairstow",
+          "rank": 40
+        },
+        {
+          "name": "Jofra Archer",
+          "rank": 41
+        },
+        {
+          "name": "Quinton de Kock",
+          "rank": 42
+        },
+        {
+          "name": "Kagiso Rabada",
+          "rank": 43
+        },
+        {
+          "name": "Shaheen Afridi",
+          "rank": 44
+        },
+        {
+          "name": "Mohammad Rizwan",
+          "rank": 45
+        },
+        {
+          "name": "Shakib Al Hasan",
+          "rank": 46
+        },
+        {
+          "name": "Rashid Khan",
+          "rank": 47
+        },
+        {
+          "name": "Chris Gayle",
+          "rank": 48
+        },
+        {
+          "name": "Kieron Pollard",
+          "rank": 49
+        },
+        {
+          "name": "Sunil Narine",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Football Players",
+      "characters": [
+        {
+          "name": "Lionel Messi",
+          "rank": 1
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "rank": 2
+        },
+        {
+          "name": "Kylian Mbappé",
+          "rank": 3
+        },
+        {
+          "name": "Neymar Jr",
+          "rank": 4
+        },
+        {
+          "name": "Erling Haaland",
+          "rank": 5
+        },
+        {
+          "name": "Pelé",
+          "rank": 6
+        },
+        {
+          "name": "Diego Maradona",
+          "rank": 7
+        },
+        {
+          "name": "Zinedine Zidane",
+          "rank": 8
+        },
+        {
+          "name": "Ronaldinho",
+          "rank": 9
+        },
+        {
+          "name": "Ronaldo Nazário",
+          "rank": 10
+        },
+        {
+          "name": "Johan Cruyff",
+          "rank": 11
+        },
+        {
+          "name": "Franz Beckenbauer",
+          "rank": 12
+        },
+        {
+          "name": "Thierry Henry",
+          "rank": 13
+        },
+        {
+          "name": "Andrés Iniesta",
+          "rank": 14
+        },
+        {
+          "name": "Xavi Hernandez",
+          "rank": 15
+        },
+        {
+          "name": "Luka Modrić",
+          "rank": 16
+        },
+        {
+          "name": "Karim Benzema",
+          "rank": 17
+        },
+        {
+          "name": "Robert Lewandowski",
+          "rank": 18
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "rank": 19
+        },
+        {
+          "name": "Mohamed Salah",
+          "rank": 20
+        },
+        {
+          "name": "Virgil van Dijk",
+          "rank": 21
+        },
+        {
+          "name": "Sergio Ramos",
+          "rank": 22
+        },
+        {
+          "name": "Gianluigi Buffon",
+          "rank": 23
+        },
+        {
+          "name": "Manuel Neuer",
+          "rank": 24
+        },
+        {
+          "name": "Iker Casillas",
+          "rank": 25
+        },
+        {
+          "name": "Paolo Maldini",
+          "rank": 26
+        },
+        {
+          "name": "Roberto Carlos",
+          "rank": 27
+        },
+        {
+          "name": "Cafu",
+          "rank": 28
+        },
+        {
+          "name": "Dani Alves",
+          "rank": 29
+        },
+        {
+          "name": "Carles Puyol",
+          "rank": 30
+        },
+        {
+          "name": "David Beckham",
+          "rank": 31
+        },
+        {
+          "name": "Wayne Rooney",
+          "rank": 32
+        },
+        {
+          "name": "Steven Gerrard",
+          "rank": 33
+        },
+        {
+          "name": "Frank Lampard",
+          "rank": 34
+        },
+        {
+          "name": "Paul Scholes",
+          "rank": 35
+        },
+        {
+          "name": "Andrea Pirlo",
+          "rank": 36
+        },
+        {
+          "name": "Kaká",
+          "rank": 37
+        },
+        {
+          "name": "Luis Suárez",
+          "rank": 38
+        },
+        {
+          "name": "Gareth Bale",
+          "rank": 39
+        },
+        {
+          "name": "Eden Hazard",
+          "rank": 40
+        },
+        {
+          "name": "Harry Kane",
+          "rank": 41
+        },
+        {
+          "name": "Son Heung-min",
+          "rank": 42
+        },
+        {
+          "name": "Sadio Mané",
+          "rank": 43
+        },
+        {
+          "name": "Vinicius Jr",
+          "rank": 44
+        },
+        {
+          "name": "Jude Bellingham",
+          "rank": 45
+        },
+        {
+          "name": "Phil Foden",
+          "rank": 46
+        },
+        {
+          "name": "Antoine Griezmann",
+          "rank": 47
+        },
+        {
+          "name": "Toni Kroos",
+          "rank": 48
+        },
+        {
+          "name": "Casemiro",
+          "rank": 49
+        },
+        {
+          "name": "Rodri",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Indian Singers",
+      "characters": [
+        {
+          "name": "Arijit Singh",
+          "rank": 1
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "rank": 2
+        },
+        {
+          "name": "Sonu Nigam",
+          "rank": 3
+        },
+        {
+          "name": "A. R. Rahman",
+          "rank": 4
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "rank": 5
+        },
+        {
+          "name": "Kishore Kumar",
+          "rank": 6
+        },
+        {
+          "name": "Mohammed Rafi",
+          "rank": 7
+        },
+        {
+          "name": "Mukesh",
+          "rank": 8
+        },
+        {
+          "name": "Asha Bhosle",
+          "rank": 9
+        },
+        {
+          "name": "Manna Dey",
+          "rank": 10
+        },
+        {
+          "name": "Kumar Sanu",
+          "rank": 11
+        },
+        {
+          "name": "Udit Narayan",
+          "rank": 12
+        },
+        {
+          "name": "Alka Yagnik",
+          "rank": 13
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "rank": 14
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "rank": 15
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "rank": 16
+        },
+        {
+          "name": "KK",
+          "rank": 17
+        },
+        {
+          "name": "Mohit Chauhan",
+          "rank": 18
+        },
+        {
+          "name": "Shaan",
+          "rank": 19
+        },
+        {
+          "name": "Javed Ali",
+          "rank": 20
+        },
+        {
+          "name": "Atif Aslam",
+          "rank": 21
+        },
+        {
+          "name": "Lucky Ali",
+          "rank": 22
+        },
+        {
+          "name": "Pankaj Udhas",
+          "rank": 23
+        },
+        {
+          "name": "Jagjit Singh",
+          "rank": 24
+        },
+        {
+          "name": "Bhupen Hazarika",
+          "rank": 25
+        },
+        {
+          "name": "Hariharan",
+          "rank": 26
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "rank": 27
+        },
+        {
+          "name": "K. J. Yesudas",
+          "rank": 28
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "rank": 29
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "rank": 30
+        },
+        {
+          "name": "Kailash Kher",
+          "rank": 31
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "rank": 32
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "rank": 33
+        },
+        {
+          "name": "Badshah",
+          "rank": 34
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "rank": 35
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "rank": 36
+        },
+        {
+          "name": "Guru Randhawa",
+          "rank": 37
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "rank": 38
+        },
+        {
+          "name": "Armaan Malik",
+          "rank": 39
+        },
+        {
+          "name": "Darshan Raval",
+          "rank": 40
+        },
+        {
+          "name": "Neha Kakkar",
+          "rank": 41
+        },
+        {
+          "name": "Monali Thakur",
+          "rank": 42
+        },
+        {
+          "name": "Tulsi Kumar",
+          "rank": 43
+        },
+        {
+          "name": "Kanika Kapoor",
+          "rank": 44
+        },
+        {
+          "name": "Shalmali Kholgade",
+          "rank": 45
+        },
+        {
+          "name": "Amit Trivedi",
+          "rank": 46
+        },
+        {
+          "name": "Pritam",
+          "rank": 47
+        },
+        {
+          "name": "Vishal Dadlani",
+          "rank": 48
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "rank": 49
+        },
+        {
+          "name": "Mika Singh",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "International Singers",
+      "characters": [
+        {
+          "name": "Taylor Swift",
+          "rank": 1
+        },
+        {
+          "name": "Ed Sheeran",
+          "rank": 2
+        },
+        {
+          "name": "Billie Eilish",
+          "rank": 3
+        },
+        {
+          "name": "Justin Bieber",
+          "rank": 4
+        },
+        {
+          "name": "Michael Jackson",
+          "rank": 5
+        },
+        {
+          "name": "Freddie Mercury",
+          "rank": 6
+        },
+        {
+          "name": "Elvis Presley",
+          "rank": 7
+        },
+        {
+          "name": "Madonna",
+          "rank": 8
+        },
+        {
+          "name": "Whitney Houston",
+          "rank": 9
+        },
+        {
+          "name": "Celine Dion",
+          "rank": 10
+        },
+        {
+          "name": "Beyoncé",
+          "rank": 11
+        },
+        {
+          "name": "Rihanna",
+          "rank": 12
+        },
+        {
+          "name": "Adele",
+          "rank": 13
+        },
+        {
+          "name": "Lady Gaga",
+          "rank": 14
+        },
+        {
+          "name": "Katy Perry",
+          "rank": 15
+        },
+        {
+          "name": "Bruno Mars",
+          "rank": 16
+        },
+        {
+          "name": "The Weeknd",
+          "rank": 17
+        },
+        {
+          "name": "Drake",
+          "rank": 18
+        },
+        {
+          "name": "Eminem",
+          "rank": 19
+        },
+        {
+          "name": "Kanye West",
+          "rank": 20
+        },
+        {
+          "name": "Ariana Grande",
+          "rank": 21
+        },
+        {
+          "name": "Dua Lipa",
+          "rank": 22
+        },
+        {
+          "name": "Harry Styles",
+          "rank": 23
+        },
+        {
+          "name": "Shawn Mendes",
+          "rank": 24
+        },
+        {
+          "name": "Charlie Puth",
+          "rank": 25
+        },
+        {
+          "name": "Post Malone",
+          "rank": 26
+        },
+        {
+          "name": "David Bowie",
+          "rank": 27
+        },
+        {
+          "name": "Elton John",
+          "rank": 28
+        },
+        {
+          "name": "Paul McCartney",
+          "rank": 29
+        },
+        {
+          "name": "John Lennon",
+          "rank": 30
+        },
+        {
+          "name": "Bob Dylan",
+          "rank": 31
+        },
+        {
+          "name": "Stevie Wonder",
+          "rank": 32
+        },
+        {
+          "name": "Prince",
+          "rank": 33
+        },
+        {
+          "name": "George Michael",
+          "rank": 34
+        },
+        {
+          "name": "Phil Collins",
+          "rank": 35
+        },
+        {
+          "name": "Shakira",
+          "rank": 36
+        },
+        {
+          "name": "Jennifer Lopez",
+          "rank": 37
+        },
+        {
+          "name": "Britney Spears",
+          "rank": 38
+        },
+        {
+          "name": "Christina Aguilera",
+          "rank": 39
+        },
+        {
+          "name": "Mariah Carey",
+          "rank": 40
+        },
+        {
+          "name": "Selena Gomez",
+          "rank": 41
+        },
+        {
+          "name": "Miley Cyrus",
+          "rank": 42
+        },
+        {
+          "name": "Demi Lovato",
+          "rank": 43
+        },
+        {
+          "name": "Camila Cabello",
+          "rank": 44
+        },
+        {
+          "name": "Lana Del Rey",
+          "rank": 45
+        },
+        {
+          "name": "Sia",
+          "rank": 46
+        },
+        {
+          "name": "Sam Smith",
+          "rank": 47
+        },
+        {
+          "name": "Lewis Capaldi",
+          "rank": 48
+        },
+        {
+          "name": "Khalid",
+          "rank": 49
+        },
+        {
+          "name": "Travis Scott",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Indian YouTubers",
+      "characters": [
+        {
+          "name": "Bhuvan Bam",
+          "rank": 1
+        },
+        {
+          "name": "CarryMinati",
+          "rank": 2
+        },
+        {
+          "name": "Ashish Chanchlani",
+          "rank": 3
+        },
+        {
+          "name": "Amit Bhadana",
+          "rank": 4
+        },
+        {
+          "name": "Harsh Beniwal",
+          "rank": 5
+        },
+        {
+          "name": "Technical Guruji",
+          "rank": 6
+        },
+        {
+          "name": "Total Gaming (Ajay)",
+          "rank": 7
+        },
+        {
+          "name": "Techno Gamerz (Ujjwal)",
+          "rank": 8
+        },
+        {
+          "name": "Mythpat",
+          "rank": 9
+        },
+        {
+          "name": "Triggered Insaan",
+          "rank": 10
+        },
+        {
+          "name": "Fukra Insaan",
+          "rank": 11
+        },
+        {
+          "name": "Mortal (Naman Mathur)",
+          "rank": 12
+        },
+        {
+          "name": "Scout (Tanmay Singh)",
+          "rank": 13
+        },
+        {
+          "name": "Dynamo Gaming",
+          "rank": 14
+        },
+        {
+          "name": "Jonathan Gaming",
+          "rank": 15
+        },
+        {
+          "name": "Tanmay Bhat",
+          "rank": 16
+        },
+        {
+          "name": "Samay Raina",
+          "rank": 17
+        },
+        {
+          "name": "BeerBiceps (Ranveer Allahbadia)",
+          "rank": 18
+        },
+        {
+          "name": "Sandeep Maheshwari",
+          "rank": 19
+        },
+        {
+          "name": "Vivek Bindra",
+          "rank": 20
+        },
+        {
+          "name": "Dhruv Rathee",
+          "rank": 21
+        },
+        {
+          "name": "Khan Sir",
+          "rank": 22
+        },
+        {
+          "name": "Physics Wallah (Alakh Pandey)",
+          "rank": 23
+        },
+        {
+          "name": "Round2hell (Zayn)",
+          "rank": 24
+        },
+        {
+          "name": "Round2hell (Wasim)",
+          "rank": 25
+        },
+        {
+          "name": "Round2hell (Nazim)",
+          "rank": 26
+        },
+        {
+          "name": "Flying Beast (Gaurav Taneja)",
+          "rank": 27
+        },
+        {
+          "name": "Sourav Joshi Vlogs",
+          "rank": 28
+        },
+        {
+          "name": "Elvish Yadav",
+          "rank": 29
+        },
+        {
+          "name": "Abhi and Niyu",
+          "rank": 30
+        },
+        {
+          "name": "Crazy XYZ",
+          "rank": 31
+        },
+        {
+          "name": "MR. INDIAN HACKER",
+          "rank": 32
+        },
+        {
+          "name": "FactTechz",
+          "rank": 33
+        },
+        {
+          "name": "GetsetflySCIENCE",
+          "rank": 34
+        },
+        {
+          "name": "Gaurav Chaudhary",
+          "rank": 35
+        },
+        {
+          "name": "Beebom",
+          "rank": 36
+        },
+        {
+          "name": "Trakin Tech",
+          "rank": 37
+        },
+        {
+          "name": "Tech Burner",
+          "rank": 38
+        },
+        {
+          "name": "Gyan Gaming",
+          "rank": 39
+        },
+        {
+          "name": "A_S Gaming",
+          "rank": 40
+        },
+        {
+          "name": "Lokesh Gamer",
+          "rank": 41
+        },
+        {
+          "name": "Desi Gamers",
+          "rank": 42
+        },
+        {
+          "name": "Two Side Gamers",
+          "rank": 43
+        },
+        {
+          "name": "Payal Gaming",
+          "rank": 44
+        },
+        {
+          "name": "Kaashvi Hiranandani",
+          "rank": 45
+        },
+        {
+          "name": "Kusha Kapila",
+          "rank": 46
+        },
+        {
+          "name": "Dolly Singh",
+          "rank": 47
+        },
+        {
+          "name": "Prajakta Koli",
+          "rank": 48
+        },
+        {
+          "name": "Zakie Khan",
+          "rank": 49
+        },
+        {
+          "name": "Biswa Kalyan Rath",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "International YouTubers",
+      "characters": [
+        {
+          "name": "MrBeast",
+          "rank": 1
+        },
+        {
+          "name": "Markiplier",
+          "rank": 2
+        },
+        {
+          "name": "PewDiePie",
+          "rank": 3
+        },
+        {
+          "name": "Dude Perfect",
+          "rank": 4
+        },
+        {
+          "name": "DanTDM",
+          "rank": 5
+        },
+        {
+          "name": "Jacksepticeye",
+          "rank": 6
+        },
+        {
+          "name": "Ninja",
+          "rank": 7
+        },
+        {
+          "name": "Shroud",
+          "rank": 8
+        },
+        {
+          "name": "Pokimane",
+          "rank": 9
+        },
+        {
+          "name": "Valkyrie",
+          "rank": 10
+        },
+        {
+          "name": "Mark Rober",
+          "rank": 11
+        },
+        {
+          "name": "Veritasium",
+          "rank": 12
+        },
+        {
+          "name": "Vsauce (Michael Stevens)",
+          "rank": 13
+        },
+        {
+          "name": "Smosh (Ian Hecox)",
+          "rank": 14
+        },
+        {
+          "name": "Smosh (Anthony Padilla)",
+          "rank": 15
+        },
+        {
+          "name": "Rhett McLaughlin",
+          "rank": 16
+        },
+        {
+          "name": "Link Neal",
+          "rank": 17
+        },
+        {
+          "name": "Casey Neistat",
+          "rank": 18
+        },
+        {
+          "name": "Peter McKinnon",
+          "rank": 19
+        },
+        {
+          "name": "MKBHD (Marques Brownlee)",
+          "rank": 20
+        },
+        {
+          "name": "Linus Sebastian",
+          "rank": 21
+        },
+        {
+          "name": "Dave2D",
+          "rank": 22
+        },
+        {
+          "name": "Unbox Therapy (Lewis Hilsenteger)",
+          "rank": 23
+        },
+        {
+          "name": "KSI",
+          "rank": 24
+        },
+        {
+          "name": "W2S (Harry Lewis)",
+          "rank": 25
+        },
+        {
+          "name": "Miniminter (Simon)",
+          "rank": 26
+        },
+        {
+          "name": "Zerkaa (Josh)",
+          "rank": 27
+        },
+        {
+          "name": "TBJZL (Tobi)",
+          "rank": 28
+        },
+        {
+          "name": "Behzinga (Ethan)",
+          "rank": 29
+        },
+        {
+          "name": "Vikkstar123",
+          "rank": 30
+        },
+        {
+          "name": "Logan Paul",
+          "rank": 31
+        },
+        {
+          "name": "Jake Paul",
+          "rank": 32
+        },
+        {
+          "name": "Dream",
+          "rank": 33
+        },
+        {
+          "name": "GeorgeNotFound",
+          "rank": 34
+        },
+        {
+          "name": "Sapnap",
+          "rank": 35
+        },
+        {
+          "name": "TommyInnit",
+          "rank": 36
+        },
+        {
+          "name": "Tubbo",
+          "rank": 37
+        },
+        {
+          "name": "Wilbur Soot",
+          "rank": 38
+        },
+        {
+          "name": "CaptainSparklez",
+          "rank": 39
+        },
+        {
+          "name": "LazarBeam",
+          "rank": 40
+        },
+        {
+          "name": "Ali-A",
+          "rank": 41
+        },
+        {
+          "name": "SypherPK",
+          "rank": 42
+        },
+        {
+          "name": "CouRageJD",
+          "rank": 43
+        },
+        {
+          "name": "TimTheTatman",
+          "rank": 44
+        },
+        {
+          "name": "Dr Disrespect",
+          "rank": 45
+        },
+        {
+          "name": "James Charles",
+          "rank": 46
+        },
+        {
+          "name": "Emma Chamberlain",
+          "rank": 47
+        },
+        {
+          "name": "David Dobrik",
+          "rank": 48
+        },
+        {
+          "name": "Airrack",
+          "rank": 49
+        },
+        {
+          "name": "Colby Brock",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Other Famous Athletes",
+      "characters": [
+        {
+          "name": "Usain Bolt",
+          "rank": 1
+        },
+        {
+          "name": "Roger Federer",
+          "rank": 2
+        },
+        {
+          "name": "Rafael Nadal",
+          "rank": 3
+        },
+        {
+          "name": "Neeraj Chopra",
+          "rank": 4
+        },
+        {
+          "name": "Michael Phelps",
+          "rank": 5
+        },
+        {
+          "name": "Simone Biles",
+          "rank": 6
+        },
+        {
+          "name": "Serena Williams",
+          "rank": 7
+        },
+        {
+          "name": "Venus Williams",
+          "rank": 8
+        },
+        {
+          "name": "Novak Djokovic",
+          "rank": 9
+        },
+        {
+          "name": "Carlos Alcaraz",
+          "rank": 10
+        },
+        {
+          "name": "LeBron James",
+          "rank": 11
+        },
+        {
+          "name": "Michael Jordan",
+          "rank": 12
+        },
+        {
+          "name": "Kobe Bryant",
+          "rank": 13
+        },
+        {
+          "name": "Stephen Curry",
+          "rank": 14
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "rank": 15
+        },
+        {
+          "name": "Lewis Hamilton",
+          "rank": 16
+        },
+        {
+          "name": "Max Verstappen",
+          "rank": 17
+        },
+        {
+          "name": "Michael Schumacher",
+          "rank": 18
+        },
+        {
+          "name": "Ayrton Senna",
+          "rank": 19
+        },
+        {
+          "name": "Sebastian Vettel",
+          "rank": 20
+        },
+        {
+          "name": "Tiger Woods",
+          "rank": 21
+        },
+        {
+          "name": "Rory McIlroy",
+          "rank": 22
+        },
+        {
+          "name": "Phil Mickelson",
+          "rank": 23
+        },
+        {
+          "name": "Jack Nicklaus",
+          "rank": 24
+        },
+        {
+          "name": "Arnold Palmer",
+          "rank": 25
+        },
+        {
+          "name": "Muhammad Ali",
+          "rank": 26
+        },
+        {
+          "name": "Mike Tyson",
+          "rank": 27
+        },
+        {
+          "name": "Floyd Mayweather",
+          "rank": 28
+        },
+        {
+          "name": "Manny Pacquiao",
+          "rank": 29
+        },
+        {
+          "name": "Canelo Alvarez",
+          "rank": 30
+        },
+        {
+          "name": "Conor McGregor",
+          "rank": 31
+        },
+        {
+          "name": "Khabib Nurmagomedov",
+          "rank": 32
+        },
+        {
+          "name": "Jon Jones",
+          "rank": 33
+        },
+        {
+          "name": "Georges St-Pierre",
+          "rank": 34
+        },
+        {
+          "name": "Israel Adesanya",
+          "rank": 35
+        },
+        {
+          "name": "Carl Lewis",
+          "rank": 36
+        },
+        {
+          "name": "Jesse Owens",
+          "rank": 37
+        },
+        {
+          "name": "Eliud Kipchoge",
+          "rank": 38
+        },
+        {
+          "name": "Mo Farah",
+          "rank": 39
+        },
+        {
+          "name": "Wayde van Niekerk",
+          "rank": 40
+        },
+        {
+          "name": "PV Sindhu",
+          "rank": 41
+        },
+        {
+          "name": "Saina Nehwal",
+          "rank": 42
+        },
+        {
+          "name": "Mary Kom",
+          "rank": 43
+        },
+        {
+          "name": "Abhinav Bindra",
+          "rank": 44
+        },
+        {
+          "name": "Sushil Kumar",
+          "rank": 45
+        },
+        {
+          "name": "Lin Dan",
+          "rank": 46
+        },
+        {
+          "name": "Lee Chong Wei",
+          "rank": 47
+        },
+        {
+          "name": "Sun Yang",
+          "rank": 48
+        },
+        {
+          "name": "Katie Ledecky",
+          "rank": 49
+        },
+        {
+          "name": "Caeleb Dressel",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Marvel",
+      "characters": [
+        {
+          "name": "Iron Man",
+          "rank": 1
+        },
+        {
+          "name": "Captain America",
+          "rank": 2
+        },
+        {
+          "name": "Thor",
+          "rank": 3
+        },
+        {
+          "name": "Hulk",
+          "rank": 4
+        },
+        {
+          "name": "Black Widow",
+          "rank": 5
+        },
+        {
+          "name": "Hawkeye",
+          "rank": 6
+        },
+        {
+          "name": "Spider-Man",
+          "rank": 7
+        },
+        {
+          "name": "Doctor Strange",
+          "rank": 8
+        },
+        {
+          "name": "Black Panther",
+          "rank": 9
+        },
+        {
+          "name": "Captain Marvel",
+          "rank": 10
+        },
+        {
+          "name": "Ant-Man",
+          "rank": 11
+        },
+        {
+          "name": "Wasp",
+          "rank": 12
+        },
+        {
+          "name": "Scarlet Witch",
+          "rank": 13
+        },
+        {
+          "name": "Vision",
+          "rank": 14
+        },
+        {
+          "name": "Falcon",
+          "rank": 15
+        },
+        {
+          "name": "Winter Soldier",
+          "rank": 16
+        },
+        {
+          "name": "War Machine",
+          "rank": 17
+        },
+        {
+          "name": "Loki",
+          "rank": 18
+        },
+        {
+          "name": "Thanos",
+          "rank": 19
+        },
+        {
+          "name": "Star-Lord",
+          "rank": 20
+        },
+        {
+          "name": "Gamora",
+          "rank": 21
+        },
+        {
+          "name": "Drax the Destroyer",
+          "rank": 22
+        },
+        {
+          "name": "Rocket Raccoon",
+          "rank": 23
+        },
+        {
+          "name": "Groot",
+          "rank": 24
+        },
+        {
+          "name": "Nebula",
+          "rank": 25
+        },
+        {
+          "name": "Mantis",
+          "rank": 26
+        },
+        {
+          "name": "Wolverine",
+          "rank": 27
+        },
+        {
+          "name": "Deadpool",
+          "rank": 28
+        },
+        {
+          "name": "Professor X",
+          "rank": 29
+        },
+        {
+          "name": "Magneto",
+          "rank": 30
+        },
+        {
+          "name": "Jean Grey",
+          "rank": 31
+        },
+        {
+          "name": "Cyclops",
+          "rank": 32
+        },
+        {
+          "name": "Storm",
+          "rank": 33
+        },
+        {
+          "name": "Rogue",
+          "rank": 34
+        },
+        {
+          "name": "Gambit",
+          "rank": 35
+        },
+        {
+          "name": "Beast",
+          "rank": 36
+        },
+        {
+          "name": "Nightcrawler",
+          "rank": 37
+        },
+        {
+          "name": "Colossus",
+          "rank": 38
+        },
+        {
+          "name": "Daredevil",
+          "rank": 39
+        },
+        {
+          "name": "Punisher",
+          "rank": 40
+        },
+        {
+          "name": "Jessica Jones",
+          "rank": 41
+        },
+        {
+          "name": "Luke Cage",
+          "rank": 42
+        },
+        {
+          "name": "Iron Fist",
+          "rank": 43
+        },
+        {
+          "name": "Moon Knight",
+          "rank": 44
+        },
+        {
+          "name": "Shang-Chi",
+          "rank": 45
+        },
+        {
+          "name": "She-Hulk",
+          "rank": 46
+        },
+        {
+          "name": "Blade",
+          "rank": 47
+        },
+        {
+          "name": "Ghost Rider",
+          "rank": 48
+        },
+        {
+          "name": "Silver Surfer",
+          "rank": 49
+        },
+        {
+          "name": "Doctor Doom",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "DC",
+      "characters": [
+        {
+          "name": "Superman",
+          "rank": 1
+        },
+        {
+          "name": "Batman",
+          "rank": 2
+        },
+        {
+          "name": "Wonder Woman",
+          "rank": 3
+        },
+        {
+          "name": "The Flash",
+          "rank": 4
+        },
+        {
+          "name": "Green Lantern (Hal Jordan)",
+          "rank": 5
+        },
+        {
+          "name": "Aquaman",
+          "rank": 6
+        },
+        {
+          "name": "Martian Manhunter",
+          "rank": 7
+        },
+        {
+          "name": "Cyborg",
+          "rank": 8
+        },
+        {
+          "name": "Green Arrow",
+          "rank": 9
+        },
+        {
+          "name": "Black Canary",
+          "rank": 10
+        },
+        {
+          "name": "Shazam",
+          "rank": 11
+        },
+        {
+          "name": "Hawkman",
+          "rank": 12
+        },
+        {
+          "name": "Hawkgirl",
+          "rank": 13
+        },
+        {
+          "name": "Zatanna",
+          "rank": 14
+        },
+        {
+          "name": "Constantine",
+          "rank": 15
+        },
+        {
+          "name": "Robin (Dick Grayson)",
+          "rank": 16
+        },
+        {
+          "name": "Nightwing",
+          "rank": 17
+        },
+        {
+          "name": "Batgirl (Barbara Gordon)",
+          "rank": 18
+        },
+        {
+          "name": "Supergirl",
+          "rank": 19
+        },
+        {
+          "name": "Red Hood",
+          "rank": 20
+        },
+        {
+          "name": "Catwoman",
+          "rank": 21
+        },
+        {
+          "name": "Harley Quinn",
+          "rank": 22
+        },
+        {
+          "name": "The Joker",
+          "rank": 23
+        },
+        {
+          "name": "Lex Luthor",
+          "rank": 24
+        },
+        {
+          "name": "Darkseid",
+          "rank": 25
+        },
+        {
+          "name": "Brainiac",
+          "rank": 26
+        },
+        {
+          "name": "Deathstroke",
+          "rank": 27
+        },
+        {
+          "name": "Sinestro",
+          "rank": 28
+        },
+        {
+          "name": "Black Adam",
+          "rank": 29
+        },
+        {
+          "name": "Bane",
+          "rank": 30
+        },
+        {
+          "name": "Ra's al Ghul",
+          "rank": 31
+        },
+        {
+          "name": "Poison Ivy",
+          "rank": 32
+        },
+        {
+          "name": "The Riddler",
+          "rank": 33
+        },
+        {
+          "name": "Two-Face",
+          "rank": 34
+        },
+        {
+          "name": "Scarecrow",
+          "rank": 35
+        },
+        {
+          "name": "Penguin",
+          "rank": 36
+        },
+        {
+          "name": "Mr. Freeze",
+          "rank": 37
+        },
+        {
+          "name": "Doomsday",
+          "rank": 38
+        },
+        {
+          "name": "Reverse-Flash",
+          "rank": 39
+        },
+        {
+          "name": "General Zod",
+          "rank": 40
+        },
+        {
+          "name": "Deadshot",
+          "rank": 41
+        },
+        {
+          "name": "Captain Cold",
+          "rank": 42
+        },
+        {
+          "name": "Blue Beetle",
+          "rank": 43
+        },
+        {
+          "name": "Booster Gold",
+          "rank": 44
+        },
+        {
+          "name": "Starfire",
+          "rank": 45
+        },
+        {
+          "name": "Raven",
+          "rank": 46
+        },
+        {
+          "name": "Beast Boy",
+          "rank": 47
+        },
+        {
+          "name": "Swamp Thing",
+          "rank": 48
+        },
+        {
+          "name": "Doctor Fate",
+          "rank": 49
+        },
+        {
+          "name": "Spectre",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Pokémon",
+      "characters": [
+        {
+          "name": "Bulbasaur",
+          "rank": 1
+        },
+        {
+          "name": "Ivysaur",
+          "rank": 2
+        },
+        {
+          "name": "Venusaur",
+          "rank": 3
+        },
+        {
+          "name": "Charmander",
+          "rank": 4
+        },
+        {
+          "name": "Charmeleon",
+          "rank": 5
+        },
+        {
+          "name": "Charizard",
+          "rank": 6
+        },
+        {
+          "name": "Squirtle",
+          "rank": 7
+        },
+        {
+          "name": "Wartortle",
+          "rank": 8
+        },
+        {
+          "name": "Blastoise",
+          "rank": 9
+        },
+        {
+          "name": "Pikachu",
+          "rank": 10
+        },
+        {
+          "name": "Raichu",
+          "rank": 11
+        },
+        {
+          "name": "Jigglypuff",
+          "rank": 12
+        },
+        {
+          "name": "Meowth",
+          "rank": 13
+        },
+        {
+          "name": "Psyduck",
+          "rank": 14
+        },
+        {
+          "name": "Machamp",
+          "rank": 15
+        },
+        {
+          "name": "Gengar",
+          "rank": 16
+        },
+        {
+          "name": "Onix",
+          "rank": 17
+        },
+        {
+          "name": "Eevee",
+          "rank": 18
+        },
+        {
+          "name": "Vaporeon",
+          "rank": 19
+        },
+        {
+          "name": "Jolteon",
+          "rank": 20
+        },
+        {
+          "name": "Flareon",
+          "rank": 21
+        },
+        {
+          "name": "Snorlax",
+          "rank": 22
+        },
+        {
+          "name": "Articuno",
+          "rank": 23
+        },
+        {
+          "name": "Zapdos",
+          "rank": 24
+        },
+        {
+          "name": "Moltres",
+          "rank": 25
+        },
+        {
+          "name": "Dragonite",
+          "rank": 26
+        },
+        {
+          "name": "Mewtwo",
+          "rank": 27
+        },
+        {
+          "name": "Mew",
+          "rank": 28
+        },
+        {
+          "name": "Chikorita",
+          "rank": 29
+        },
+        {
+          "name": "Cyndaquil",
+          "rank": 30
+        },
+        {
+          "name": "Totodile",
+          "rank": 31
+        },
+        {
+          "name": "Togepi",
+          "rank": 32
+        },
+        {
+          "name": "Ampharos",
+          "rank": 33
+        },
+        {
+          "name": "Umbreon",
+          "rank": 34
+        },
+        {
+          "name": "Espeon",
+          "rank": 35
+        },
+        {
+          "name": "Tyranitar",
+          "rank": 36
+        },
+        {
+          "name": "Lugia",
+          "rank": 37
+        },
+        {
+          "name": "Ho-Oh",
+          "rank": 38
+        },
+        {
+          "name": "Celebi",
+          "rank": 39
+        },
+        {
+          "name": "Treecko",
+          "rank": 40
+        },
+        {
+          "name": "Torchic",
+          "rank": 41
+        },
+        {
+          "name": "Mudkip",
+          "rank": 42
+        },
+        {
+          "name": "Gardevoir",
+          "rank": 43
+        },
+        {
+          "name": "Rayquaza",
+          "rank": 44
+        },
+        {
+          "name": "Lucario",
+          "rank": 45
+        },
+        {
+          "name": "Garchomp",
+          "rank": 46
+        },
+        {
+          "name": "Greninja",
+          "rank": 47
+        },
+        {
+          "name": "Mimikyu",
+          "rank": 48
+        },
+        {
+          "name": "Zacian",
+          "rank": 49
+        },
+        {
+          "name": "Koraidon",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Dragon Ball",
+      "characters": [
+        {
+          "name": "Son Goku",
+          "rank": 1
+        },
+        {
+          "name": "Vegeta",
+          "rank": 2
+        },
+        {
+          "name": "Son Gohan",
+          "rank": 3
+        },
+        {
+          "name": "Piccolo",
+          "rank": 4
+        },
+        {
+          "name": "Future Trunks",
+          "rank": 5
+        },
+        {
+          "name": "Krillin",
+          "rank": 6
+        },
+        {
+          "name": "Master Roshi",
+          "rank": 7
+        },
+        {
+          "name": "Yamcha",
+          "rank": 8
+        },
+        {
+          "name": "Tien Shinhan",
+          "rank": 9
+        },
+        {
+          "name": "Chiaotzu",
+          "rank": 10
+        },
+        {
+          "name": "Son Goten",
+          "rank": 11
+        },
+        {
+          "name": "Trunks (Kid)",
+          "rank": 12
+        },
+        {
+          "name": "Gotenks",
+          "rank": 13
+        },
+        {
+          "name": "Vegito",
+          "rank": 14
+        },
+        {
+          "name": "Gogeta",
+          "rank": 15
+        },
+        {
+          "name": "Frieza",
+          "rank": 16
+        },
+        {
+          "name": "Cell",
+          "rank": 17
+        },
+        {
+          "name": "Majin Buu",
+          "rank": 18
+        },
+        {
+          "name": "Kid Buu",
+          "rank": 19
+        },
+        {
+          "name": "Android 18",
+          "rank": 20
+        },
+        {
+          "name": "Android 17",
+          "rank": 21
+        },
+        {
+          "name": "Android 16",
+          "rank": 22
+        },
+        {
+          "name": "Raditz",
+          "rank": 23
+        },
+        {
+          "name": "Nappa",
+          "rank": 24
+        },
+        {
+          "name": "Bardock",
+          "rank": 25
+        },
+        {
+          "name": "Broly",
+          "rank": 26
+        },
+        {
+          "name": "Beerus",
+          "rank": 27
+        },
+        {
+          "name": "Whis",
+          "rank": 28
+        },
+        {
+          "name": "Jiren",
+          "rank": 29
+        },
+        {
+          "name": "Hit",
+          "rank": 30
+        },
+        {
+          "name": "Goku Black",
+          "rank": 31
+        },
+        {
+          "name": "Zamasu",
+          "rank": 32
+        },
+        {
+          "name": "Videl",
+          "rank": 33
+        },
+        {
+          "name": "Mr. Satan",
+          "rank": 34
+        },
+        {
+          "name": "Chi-Chi",
+          "rank": 35
+        },
+        {
+          "name": "Bulma",
+          "rank": 36
+        },
+        {
+          "name": "Android 21",
+          "rank": 37
+        },
+        {
+          "name": "Captain Ginyu",
+          "rank": 38
+        },
+        {
+          "name": "Recoome",
+          "rank": 39
+        },
+        {
+          "name": "Burter",
+          "rank": 40
+        },
+        {
+          "name": "Jeice",
+          "rank": 41
+        },
+        {
+          "name": "Guldo",
+          "rank": 42
+        },
+        {
+          "name": "Zarbon",
+          "rank": 43
+        },
+        {
+          "name": "Dodoria",
+          "rank": 44
+        },
+        {
+          "name": "King Kai",
+          "rank": 45
+        },
+        {
+          "name": "Shin (Supreme Kai)",
+          "rank": 46
+        },
+        {
+          "name": "Janemba",
+          "rank": 47
+        },
+        {
+          "name": "Cooler",
+          "rank": 48
+        },
+        {
+          "name": "Pan",
+          "rank": 49
+        },
+        {
+          "name": "Granolah",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Naruto",
+      "characters": [
+        {
+          "name": "Naruto Uzumaki",
+          "rank": 1
+        },
+        {
+          "name": "Sasuke Uchiha",
+          "rank": 2
+        },
+        {
+          "name": "Sakura Haruno",
+          "rank": 3
+        },
+        {
+          "name": "Kakashi Hatake",
+          "rank": 4
+        },
+        {
+          "name": "Itachi Uchiha",
+          "rank": 5
+        },
+        {
+          "name": "Jiraiya",
+          "rank": 6
+        },
+        {
+          "name": "Tsunade",
+          "rank": 7
+        },
+        {
+          "name": "Orochimaru",
+          "rank": 8
+        },
+        {
+          "name": "Minato Namikaze",
+          "rank": 9
+        },
+        {
+          "name": "Madara Uchiha",
+          "rank": 10
+        },
+        {
+          "name": "Obito Uchiha",
+          "rank": 11
+        },
+        {
+          "name": "Hinata Hyuga",
+          "rank": 12
+        },
+        {
+          "name": "Shikamaru Nara",
+          "rank": 13
+        },
+        {
+          "name": "Gaara",
+          "rank": 14
+        },
+        {
+          "name": "Rock Lee",
+          "rank": 15
+        },
+        {
+          "name": "Neji Hyuga",
+          "rank": 16
+        },
+        {
+          "name": "Might Guy",
+          "rank": 17
+        },
+        {
+          "name": "Pain (Nagato)",
+          "rank": 18
+        },
+        {
+          "name": "Konan",
+          "rank": 19
+        },
+        {
+          "name": "Deidara",
+          "rank": 20
+        },
+        {
+          "name": "Sasori",
+          "rank": 21
+        },
+        {
+          "name": "Kisame Hoshigaki",
+          "rank": 22
+        },
+        {
+          "name": "Hidan",
+          "rank": 23
+        },
+        {
+          "name": "Kakuzu",
+          "rank": 24
+        },
+        {
+          "name": "Zetsu",
+          "rank": 25
+        },
+        {
+          "name": "Kabuto Yakushi",
+          "rank": 26
+        },
+        {
+          "name": "Sai",
+          "rank": 27
+        },
+        {
+          "name": "Yamato",
+          "rank": 28
+        },
+        {
+          "name": "Ino Yamanaka",
+          "rank": 29
+        },
+        {
+          "name": "Choji Akimichi",
+          "rank": 30
+        },
+        {
+          "name": "Kiba Inuzuka",
+          "rank": 31
+        },
+        {
+          "name": "Shino Aburame",
+          "rank": 32
+        },
+        {
+          "name": "Tenten",
+          "rank": 33
+        },
+        {
+          "name": "Temari",
+          "rank": 34
+        },
+        {
+          "name": "Kankuro",
+          "rank": 35
+        },
+        {
+          "name": "Killer Bee",
+          "rank": 36
+        },
+        {
+          "name": "Hashirama Senju",
+          "rank": 37
+        },
+        {
+          "name": "Tobirama Senju",
+          "rank": 38
+        },
+        {
+          "name": "Hiruzen Sarutobi",
+          "rank": 39
+        },
+        {
+          "name": "Kushina Uzumaki",
+          "rank": 40
+        },
+        {
+          "name": "Zabuza Momochi",
+          "rank": 41
+        },
+        {
+          "name": "Haku",
+          "rank": 42
+        },
+        {
+          "name": "Karin",
+          "rank": 43
+        },
+        {
+          "name": "Suigetsu Hozuki",
+          "rank": 44
+        },
+        {
+          "name": "Jugo",
+          "rank": 45
+        },
+        {
+          "name": "Danzo Shimura",
+          "rank": 46
+        },
+        {
+          "name": "Kaguya Otsutsuki",
+          "rank": 47
+        },
+        {
+          "name": "Hagoromo Otsutsuki",
+          "rank": 48
+        },
+        {
+          "name": "Boruto Uzumaki",
+          "rank": 49
+        },
+        {
+          "name": "Sarada Uchiha",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Shinchan",
+      "characters": [
+        {
+          "name": "Shinnosuke Nohara",
+          "rank": 1
+        },
+        {
+          "name": "Misae Nohara",
+          "rank": 2
+        },
+        {
+          "name": "Hiroshi Nohara",
+          "rank": 3
+        },
+        {
+          "name": "Himawari Nohara",
+          "rank": 4
+        },
+        {
+          "name": "Shiro",
+          "rank": 5
+        },
+        {
+          "name": "Toru Kazama",
+          "rank": 6
+        },
+        {
+          "name": "Nene Sakurada",
+          "rank": 7
+        },
+        {
+          "name": "Masao Sato",
+          "rank": 8
+        },
+        {
+          "name": "Bo Suzuki",
+          "rank": 9
+        },
+        {
+          "name": "Action Kamen",
+          "rank": 10
+        },
+        {
+          "name": "Kantam Robo",
+          "rank": 11
+        },
+        {
+          "name": "Buriburizaemon",
+          "rank": 12
+        },
+        {
+          "name": "Midori Yoshinaga",
+          "rank": 13
+        },
+        {
+          "name": "Ume Matsuzaka",
+          "rank": 14
+        },
+        {
+          "name": "Masumi Ageo",
+          "rank": 15
+        },
+        {
+          "name": "Bunta Takakura",
+          "rank": 16
+        },
+        {
+          "name": "Tsuru Nohara",
+          "rank": 17
+        },
+        {
+          "name": "Ginnosuke Nohara",
+          "rank": 18
+        },
+        {
+          "name": "Yoshiko Koyama",
+          "rank": 19
+        },
+        {
+          "name": "Musashi Koyama",
+          "rank": 20
+        },
+        {
+          "name": "Nanako Ohara",
+          "rank": 21
+        },
+        {
+          "name": "Shinobu Kandadori",
+          "rank": 22
+        },
+        {
+          "name": "Robert McGuire",
+          "rank": 23
+        },
+        {
+          "name": "Micchi Hatogaya",
+          "rank": 24
+        },
+        {
+          "name": "Yoshirin Hatogaya",
+          "rank": 25
+        },
+        {
+          "name": "Atsuko Kutsusoko",
+          "rank": 26
+        },
+        {
+          "name": "Atsushi Kutsusoko",
+          "rank": 27
+        },
+        {
+          "name": "Tamayura Brothers",
+          "rank": 28
+        },
+        {
+          "name": "Hidero",
+          "rank": 29
+        },
+        {
+          "name": "Rose",
+          "rank": 30
+        },
+        {
+          "name": "Lavender",
+          "rank": 31
+        },
+        {
+          "name": "Lemon",
+          "rank": 32
+        },
+        {
+          "name": "Master Pheromone",
+          "rank": 33
+        },
+        {
+          "name": "Captain Hitoru",
+          "rank": 34
+        },
+        {
+          "name": "Moeko Sakurada",
+          "rank": 35
+        },
+        {
+          "name": "Mineko Kazama",
+          "rank": 36
+        },
+        {
+          "name": "Mineo Sato",
+          "rank": 37
+        },
+        {
+          "name": "Yuka Suzuki",
+          "rank": 38
+        },
+        {
+          "name": "Satoshi",
+          "rank": 39
+        },
+        {
+          "name": "Kawaguchi",
+          "rank": 40
+        },
+        {
+          "name": "Reiko Kitamoto",
+          "rank": 41
+        },
+        {
+          "name": "Bookstore Boss",
+          "rank": 42
+        },
+        {
+          "name": "Nakamura (Bookstore Clerk)",
+          "rank": 43
+        },
+        {
+          "name": "Yonro",
+          "rank": 44
+        },
+        {
+          "name": "Musae Koyama",
+          "rank": 45
+        },
+        {
+          "name": "Shinko-chan",
+          "rank": 46
+        },
+        {
+          "name": "Suotome Ai",
+          "rank": 47
+        },
+        {
+          "name": "Kuroiso",
+          "rank": 48
+        },
+        {
+          "name": "Professor Shijimi",
+          "rank": 49
+        },
+        {
+          "name": "Princess Milk",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Minecraft",
+      "characters": [
+        {
+          "name": "Steve",
+          "rank": 1
+        },
+        {
+          "name": "Alex",
+          "rank": 2
+        },
+        {
+          "name": "Zombie",
+          "rank": 3
+        },
+        {
+          "name": "Skeleton",
+          "rank": 4
+        },
+        {
+          "name": "Creeper",
+          "rank": 5
+        },
+        {
+          "name": "Enderman",
+          "rank": 6
+        },
+        {
+          "name": "Spider",
+          "rank": 7
+        },
+        {
+          "name": "Cave Spider",
+          "rank": 8
+        },
+        {
+          "name": "Witch",
+          "rank": 9
+        },
+        {
+          "name": "Slime",
+          "rank": 10
+        },
+        {
+          "name": "Magma Cube",
+          "rank": 11
+        },
+        {
+          "name": "Piglin",
+          "rank": 12
+        },
+        {
+          "name": "Piglin Brute",
+          "rank": 13
+        },
+        {
+          "name": "Zombified Piglin",
+          "rank": 14
+        },
+        {
+          "name": "Ghast",
+          "rank": 15
+        },
+        {
+          "name": "Blaze",
+          "rank": 16
+        },
+        {
+          "name": "Wither Skeleton",
+          "rank": 17
+        },
+        {
+          "name": "Ender Dragon",
+          "rank": 18
+        },
+        {
+          "name": "Wither",
+          "rank": 19
+        },
+        {
+          "name": "Warden",
+          "rank": 20
+        },
+        {
+          "name": "Villager",
+          "rank": 21
+        },
+        {
+          "name": "Iron Golem",
+          "rank": 22
+        },
+        {
+          "name": "Snow Golem",
+          "rank": 23
+        },
+        {
+          "name": "Wandering Trader",
+          "rank": 24
+        },
+        {
+          "name": "Allay",
+          "rank": 25
+        },
+        {
+          "name": "Pillager",
+          "rank": 26
+        },
+        {
+          "name": "Vindicator",
+          "rank": 27
+        },
+        {
+          "name": "Evoker",
+          "rank": 28
+        },
+        {
+          "name": "Ravager",
+          "rank": 29
+        },
+        {
+          "name": "Vex",
+          "rank": 30
+        },
+        {
+          "name": "Cow",
+          "rank": 31
+        },
+        {
+          "name": "Pig",
+          "rank": 32
+        },
+        {
+          "name": "Sheep",
+          "rank": 33
+        },
+        {
+          "name": "Chicken",
+          "rank": 34
+        },
+        {
+          "name": "Horse",
+          "rank": 35
+        },
+        {
+          "name": "Donkey",
+          "rank": 36
+        },
+        {
+          "name": "Mule",
+          "rank": 37
+        },
+        {
+          "name": "Wolf",
+          "rank": 38
+        },
+        {
+          "name": "Ocelot",
+          "rank": 39
+        },
+        {
+          "name": "Cat",
+          "rank": 40
+        },
+        {
+          "name": "Parrot",
+          "rank": 41
+        },
+        {
+          "name": "Fox",
+          "rank": 42
+        },
+        {
+          "name": "Polar Bear",
+          "rank": 43
+        },
+        {
+          "name": "Panda",
+          "rank": 44
+        },
+        {
+          "name": "Bee",
+          "rank": 45
+        },
+        {
+          "name": "Dolphin",
+          "rank": 46
+        },
+        {
+          "name": "Glow Squid",
+          "rank": 47
+        },
+        {
+          "name": "Axolotl",
+          "rank": 48
+        },
+        {
+          "name": "Breeze",
+          "rank": 49
+        },
+        {
+          "name": "Bogged",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Free Fire",
+      "characters": [
+        {
+          "name": "Alok",
+          "rank": 1
+        },
+        {
+          "name": "Chrono",
+          "rank": 2
+        },
+        {
+          "name": "K (Captain Booyah)",
+          "rank": 3
+        },
+        {
+          "name": "Kelly",
+          "rank": 4
+        },
+        {
+          "name": "Hayato",
+          "rank": 5
+        },
+        {
+          "name": "Moco",
+          "rank": 6
+        },
+        {
+          "name": "Andrew",
+          "rank": 7
+        },
+        {
+          "name": "Dimitri",
+          "rank": 8
+        },
+        {
+          "name": "Wukong",
+          "rank": 9
+        },
+        {
+          "name": "Skyler",
+          "rank": 10
+        },
+        {
+          "name": "Maxim",
+          "rank": 11
+        },
+        {
+          "name": "Laura",
+          "rank": 12
+        },
+        {
+          "name": "Paloma",
+          "rank": 13
+        },
+        {
+          "name": "Kla",
+          "rank": 14
+        },
+        {
+          "name": "Antonio",
+          "rank": 15
+        },
+        {
+          "name": "Caroline",
+          "rank": 16
+        },
+        {
+          "name": "Rafael",
+          "rank": 17
+        },
+        {
+          "name": "A124",
+          "rank": 18
+        },
+        {
+          "name": "Jota",
+          "rank": 19
+        },
+        {
+          "name": "Steffie",
+          "rank": 20
+        },
+        {
+          "name": "Luqueta",
+          "rank": 21
+        },
+        {
+          "name": "Wolfrahh",
+          "rank": 22
+        },
+        {
+          "name": "Dasha",
+          "rank": 23
+        },
+        {
+          "name": "Shirou",
+          "rank": 24
+        },
+        {
+          "name": "Maro",
+          "rank": 25
+        },
+        {
+          "name": "Xayne",
+          "rank": 26
+        },
+        {
+          "name": "Thiva",
+          "rank": 27
+        },
+        {
+          "name": "Leon",
+          "rank": 28
+        },
+        {
+          "name": "Otho",
+          "rank": 29
+        },
+        {
+          "name": "Nairi",
+          "rank": 30
+        },
+        {
+          "name": "Kenta",
+          "rank": 31
+        },
+        {
+          "name": "Homer",
+          "rank": 32
+        },
+        {
+          "name": "Iris",
+          "rank": 33
+        },
+        {
+          "name": "J.Biebs",
+          "rank": 34
+        },
+        {
+          "name": "Tatsuya",
+          "rank": 35
+        },
+        {
+          "name": "Luna",
+          "rank": 36
+        },
+        {
+          "name": "Santino",
+          "rank": 37
+        },
+        {
+          "name": "Orion",
+          "rank": 38
+        },
+        {
+          "name": "Sonia",
+          "rank": 39
+        },
+        {
+          "name": "Suzy",
+          "rank": 40
+        },
+        {
+          "name": "Ignis",
+          "rank": 41
+        },
+        {
+          "name": "Ryden",
+          "rank": 42
+        },
+        {
+          "name": "Kairos",
+          "rank": 43
+        },
+        {
+          "name": "Kassie",
+          "rank": 44
+        },
+        {
+          "name": "Ford",
+          "rank": 45
+        },
+        {
+          "name": "Olivia",
+          "rank": 46
+        },
+        {
+          "name": "Nikita",
+          "rank": 47
+        },
+        {
+          "name": "Misha",
+          "rank": 48
+        },
+        {
+          "name": "Notora",
+          "rank": 49
+        },
+        {
+          "name": "Shani",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "BGMI",
+      "characters": [
+        {
+          "name": "Victor",
+          "rank": 1
+        },
+        {
+          "name": "Sara",
+          "rank": 2
+        },
+        {
+          "name": "Carlo",
+          "rank": 3
+        },
+        {
+          "name": "Andy",
+          "rank": 4
+        },
+        {
+          "name": "Anna",
+          "rank": 5
+        },
+        {
+          "name": "Lorenzo",
+          "rank": 6
+        },
+        {
+          "name": "Laiba",
+          "rank": 7
+        },
+        {
+          "name": "Riley",
+          "rank": 8
+        },
+        {
+          "name": "Sophia",
+          "rank": 9
+        },
+        {
+          "name": "Player Guy (Default)",
+          "rank": 10
+        },
+        {
+          "name": "Player Girl (Default)",
+          "rank": 11
+        },
+        {
+          "name": "Golden Pharaoh",
+          "rank": 12
+        },
+        {
+          "name": "Blood Raven",
+          "rank": 13
+        },
+        {
+          "name": "Poseidon",
+          "rank": 14
+        },
+        {
+          "name": "Ocean Archlord",
+          "rank": 15
+        },
+        {
+          "name": "Silvanus",
+          "rank": 16
+        },
+        {
+          "name": "Avalanche",
+          "rank": 17
+        },
+        {
+          "name": "Galadria",
+          "rank": 18
+        },
+        {
+          "name": "Marmoris",
+          "rank": 19
+        },
+        {
+          "name": "Fireshadower",
+          "rank": 20
+        },
+        {
+          "name": "Ignis Sovereign",
+          "rank": 21
+        },
+        {
+          "name": "Shadow Infiltrator",
+          "rank": 22
+        },
+        {
+          "name": "Urban Scavenger",
+          "rank": 23
+        },
+        {
+          "name": "Arctic Warfare Specialist",
+          "rank": 24
+        },
+        {
+          "name": "Desert Nomad",
+          "rank": 25
+        },
+        {
+          "name": "Ghillie Sniper",
+          "rank": 26
+        },
+        {
+          "name": "Cyber Mercenary",
+          "rank": 27
+        },
+        {
+          "name": "Vanguard Captain",
+          "rank": 28
+        },
+        {
+          "name": "Biohazard Commando",
+          "rank": 29
+        },
+        {
+          "name": "Delta Operative",
+          "rank": 30
+        },
+        {
+          "name": "Rogue Enforcer",
+          "rank": 31
+        },
+        {
+          "name": "Stealth Assassin",
+          "rank": 32
+        },
+        {
+          "name": "Tactical Breacher",
+          "rank": 33
+        },
+        {
+          "name": "Recon Scout",
+          "rank": 34
+        },
+        {
+          "name": "Night Ops Specialist",
+          "rank": 35
+        },
+        {
+          "name": "Wasteland Raider",
+          "rank": 36
+        },
+        {
+          "name": "Neon Striker",
+          "rank": 37
+        },
+        {
+          "name": "Ironclad Defender",
+          "rank": 38
+        },
+        {
+          "name": "Phoenix Warrior",
+          "rank": 39
+        },
+        {
+          "name": "Abyssal Hunter",
+          "rank": 40
+        },
+        {
+          "name": "Valkyrie Pilot",
+          "rank": 41
+        },
+        {
+          "name": "Dune Stalker",
+          "rank": 42
+        },
+        {
+          "name": "Storm Vanguard",
+          "rank": 43
+        },
+        {
+          "name": "Obsidian Sentinel",
+          "rank": 44
+        },
+        {
+          "name": "Solar Champion",
+          "rank": 45
+        },
+        {
+          "name": "Lunar Phantom",
+          "rank": 46
+        },
+        {
+          "name": "Glacial Vanguard",
+          "rank": 47
+        },
+        {
+          "name": "Apex Predator",
+          "rank": 48
+        },
+        {
+          "name": "Warhound Raider",
+          "rank": 49
+        },
+        {
+          "name": "Brimstone Merc",
+          "rank": 50
+        }
+      ]
+    },
+    {
+      "name": "Other Cartoons",
+      "characters": [
+        {
+          "name": "Mickey Mouse",
+          "rank": 1
+        },
+        {
+          "name": "Donald Duck",
+          "rank": 2
+        },
+        {
+          "name": "Goofy",
+          "rank": 3
+        },
+        {
+          "name": "Tom",
+          "rank": 4
+        },
+        {
+          "name": "Jerry",
+          "rank": 5
+        },
+        {
+          "name": "Bugs Bunny",
+          "rank": 6
+        },
+        {
+          "name": "Daffy Duck",
+          "rank": 7
+        },
+        {
+          "name": "Tweety",
+          "rank": 8
+        },
+        {
+          "name": "Sylvester",
+          "rank": 9
+        },
+        {
+          "name": "Scooby-Doo",
+          "rank": 10
+        },
+        {
+          "name": "Shaggy Rogers",
+          "rank": 11
+        },
+        {
+          "name": "Fred Flintstone",
+          "rank": 12
+        },
+        {
+          "name": "Barney Rubble",
+          "rank": 13
+        },
+        {
+          "name": "George Jetson",
+          "rank": 14
+        },
+        {
+          "name": "Popeye",
+          "rank": 15
+        },
+        {
+          "name": "SpongeBob SquarePants",
+          "rank": 16
+        },
+        {
+          "name": "Patrick Star",
+          "rank": 17
+        },
+        {
+          "name": "Squidward Tentacles",
+          "rank": 18
+        },
+        {
+          "name": "Ben Tennyson",
+          "rank": 19
+        },
+        {
+          "name": "Gwen Tennyson",
+          "rank": 20
+        },
+        {
+          "name": "Dexter",
+          "rank": 21
+        },
+        {
+          "name": "Dee Dee",
+          "rank": 22
+        },
+        {
+          "name": "Johnny Bravo",
+          "rank": 23
+        },
+        {
+          "name": "Courage the Cowardly Dog",
+          "rank": 24
+        },
+        {
+          "name": "Samurai Jack",
+          "rank": 25
+        },
+        {
+          "name": "Blossom",
+          "rank": 26
+        },
+        {
+          "name": "Bubbles",
+          "rank": 27
+        },
+        {
+          "name": "Buttercup",
+          "rank": 28
+        },
+        {
+          "name": "Mojo Jojo",
+          "rank": 29
+        },
+        {
+          "name": "Phineas Flynn",
+          "rank": 30
+        },
+        {
+          "name": "Ferb Fletcher",
+          "rank": 31
+        },
+        {
+          "name": "Perry the Platypus",
+          "rank": 32
+        },
+        {
+          "name": "Dr. Doofenshmirtz",
+          "rank": 33
+        },
+        {
+          "name": "Finn the Human",
+          "rank": 34
+        },
+        {
+          "name": "Jake the Dog",
+          "rank": 35
+        },
+        {
+          "name": "Mordecai",
+          "rank": 36
+        },
+        {
+          "name": "Rigby",
+          "rank": 37
+        },
+        {
+          "name": "Gumball Watterson",
+          "rank": 38
+        },
+        {
+          "name": "Darwin Watterson",
+          "rank": 39
+        },
+        {
+          "name": "Steven Universe",
+          "rank": 40
+        },
+        {
+          "name": "Kim Possible",
+          "rank": 41
+        },
+        {
+          "name": "Danny Phantom",
+          "rank": 42
+        },
+        {
+          "name": "Timmy Turner",
+          "rank": 43
+        },
+        {
+          "name": "Jimmy Neutron",
+          "rank": 44
+        },
+        {
+          "name": "Aang",
+          "rank": 45
+        },
+        {
+          "name": "Zuko",
+          "rank": 46
+        },
+        {
+          "name": "Korra",
+          "rank": 47
+        },
+        {
+          "name": "Optimus Prime",
+          "rank": 48
+        },
+        {
+          "name": "Megatron",
+          "rank": 49
+        },
+        {
+          "name": "Pink Panther",
+          "rank": 50
+        }
+      ]
+    }
+  ]
+}
